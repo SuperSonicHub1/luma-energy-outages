@@ -32,11 +32,12 @@ jobs:
       run: |-
         curl https://api.miluma.lumapr.com/miluma-outage-api/outage/regionsWithoutService | jq . > service_statistics.json
         curl -X POST -d '["SAN JUAN","GUAYNABO","CAROLINA","CATANO","BAYAMON","TRUJILLO ALTO"]' -H "Content-Type: application/json"  https://api.miluma.lumapr.com/miluma-outage-api/outage/municipality/towns | jq . > outages_by_town.json
+        curl -o notable_outages.csv 'https://docs.google.com/spreadsheets/d/19s858vnTO_ttKbLlm5Xx1LRsMOy00-uPlsnkzL9gAic/export?format=csv&id=19s858vnTO_ttKbLlm5Xx1LRsMOy00-uPlsnkzL9gAic' 
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
-        git add service_statistics.json outages_by_town.json
+        git add service_statistics.json outages_by_town.json notable_outages.csv
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
