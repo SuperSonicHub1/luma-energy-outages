@@ -1,0 +1,42 @@
+name: Scrape latest data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '*/5 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - uses: actions/cache@v2
+      name: Configure pip caching
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    - name: Install Python dependencies
+      run: |-
+        pip install -r requirements.txt
+    - name: Scrape data
+      run: |-
+        curl https://api.miluma.lumapr.com/miluma-outage-api/outage/regionsWithoutService | jq . > service_statistics.json
+        curl -X POST -d '["SAN JUAN","GUAYNABO","CAROLINA","CATANO","BAYAMON","TRUJILLO ALTO"]' -H "Content-Type: application/json"  https://api.miluma.lumapr.com/miluma-outage-api/outage/municipality/towns | jq . > outages_by_town.json
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add service_statistics.json outages_by_town.json
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0; fi
+        git push
