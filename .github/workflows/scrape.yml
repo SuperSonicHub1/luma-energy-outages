@@ -41,3 +41,10 @@ jobs:
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
         git push
+    - name: Update and push graph
+      run: |-
+        python graph_outages.py --savefig
+        git add customers_without_service.png
+        timestamp=$(date -u)
+        git commit -m "Latest graph: ${timestamp}" || exit 0
+        git push
