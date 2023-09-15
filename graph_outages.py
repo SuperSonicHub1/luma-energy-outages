@@ -80,6 +80,7 @@ ax.xaxis.set_major_locator(mdates.AutoDateLocator(minticks=20))
 OUTAGE_COLORS = {
     'Scheduled Maintenance': 'yellow',
     'Unplanned': 'red',
+    '3rd Party Damage': 'red',
     '': 'grey',
 }
 
@@ -95,8 +96,8 @@ outage_polys = [
         outage['outage_reported'],
         outage['estimated_time_of_restoration'],
         alpha=0.3,
-        color=OUTAGE_COLORS[outage['Category']],
-        hatch=OUTAGE_HATCHES[outage['Category']]
+        color=OUTAGE_COLORS.get(outage['Category'], OUTAGE_COLORS['']),
+        hatch=OUTAGE_HATCHES.get(outage['Category'], OUTAGE_HATCHES[''])
     )
     for outage
     in notable_outages
