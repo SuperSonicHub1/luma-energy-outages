@@ -1,6 +1,11 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "BARRAZAS",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
@@ -16,23 +21,18 @@
       "area": "GUAYNABO"
     }
   ],
-  "SAN JUAN": [
-    {
-      "zone": "CUPEY",
-      "area": "SAN JUAN"
-    }
-  ],
+  "SAN JUAN": [],
   "BAYAMON": [
-    {
-      "zone": "DAJAOS",
-      "area": "BAYAMON"
-    },
     {
       "zone": "MINILLAS",
       "area": "BAYAMON"
     },
     {
       "zone": "URB SIERRA LINDA",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "Urb. Mansiones De SIerra Taina",
       "area": "BAYAMON"
     }
   ]
