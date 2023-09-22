@@ -11,11 +11,11 @@
       "area": "CAROLINA"
     },
     {
-      "zone": "CANGREJO ARRIBA",
+      "zone": "Bo. Trujillo Bajo",
       "area": "CAROLINA"
     },
     {
-      "zone": "URB VILLA CAROLINA",
+      "zone": "CANGREJO ARRIBA",
       "area": "CAROLINA"
     },
     {
@@ -24,7 +24,12 @@
     }
   ],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "URB. ALTO APOLO",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
       "zone": "Ave. Baldorioty De Castro",
@@ -43,29 +48,17 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "PARCELAS CANEJAS BO. CAIMITO",
-      "area": "SAN JUAN"
-    },
-    {
       "zone": "SANTURCE",
       "area": "SAN JUAN"
     },
     {
       "zone": "URB SAN FRANCISCO",
       "area": "SAN JUAN"
-    },
-    {
-      "zone": "Urb. San Francisco",
-      "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
       "zone": "PLANTA TRATAMIENTO A.P.",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "Urb. Santa Juanita",
       "area": "BAYAMON"
     }
   ]
