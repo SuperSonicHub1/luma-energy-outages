@@ -1,10 +1,5 @@
 {
-  "CATANO": [
-    {
-      "zone": "BO PALMAS",
-      "area": "CATANO"
-    }
-  ],
+  "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
@@ -16,18 +11,27 @@
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "URB. VICTOR BRAEGGER",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
+    {
+      "zone": "Ave. Ponce De Leon",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Bo. Caimito Alto",
+      "area": "SAN JUAN"
+    },
     {
       "zone": "CUPEY",
       "area": "SAN JUAN"
     },
     {
       "zone": "Cond. La Morada Apts.",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     },
     {
@@ -55,6 +59,10 @@
       "area": "SAN JUAN"
     },
     {
+      "zone": "URB COMANDANTE",
+      "area": "SAN JUAN"
+    },
+    {
       "zone": "URB HYDE PARK",
       "area": "SAN JUAN"
     },
@@ -71,5 +79,10 @@
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "URB FLAMINGO TERRACE",
+      "area": "BAYAMON"
+    }
+  ]
 }
