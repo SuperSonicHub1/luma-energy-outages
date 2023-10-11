@@ -1,6 +1,11 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "SECTOR LOS CAFE BO CEDROS",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
@@ -10,7 +15,15 @@
   ],
   "SAN JUAN": [
     {
-      "zone": "SABANA LLANA SUR",
+      "zone": "Bo. Buen Consejo",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "PUEBLO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Urb. San Gerardo",
       "area": "SAN JUAN"
     }
   ],
@@ -20,11 +33,23 @@
       "area": "BAYAMON"
     },
     {
+      "zone": "Bo. Cerro Gordo",
+      "area": "BAYAMON"
+    },
+    {
       "zone": "Bo. Minillas",
       "area": "BAYAMON"
     },
     {
+      "zone": "CERRO GORDO",
+      "area": "BAYAMON"
+    },
+    {
       "zone": "MINILLAS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB BAYAMON GARDENS",
       "area": "BAYAMON"
     }
   ]
