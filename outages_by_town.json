@@ -1,7 +1,12 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "BO SANTO DOMINGO",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [
     {
       "zone": "URB MUNOZ RIVERA",
@@ -14,11 +19,19 @@
       "area": "SAN JUAN"
     },
     {
+      "zone": "Calle Del Parque",
+      "area": "SAN JUAN"
+    },
+    {
       "zone": "GOBERNADOR PIÑERO",
       "area": "SAN JUAN"
     },
     {
       "zone": "SAN JUAN PR 00909-0000",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Sector Corea",
       "area": "SAN JUAN"
     },
     {
@@ -37,6 +50,10 @@
     },
     {
       "zone": "CERRO GORDO",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB EXT FOREST HILLS",
       "area": "BAYAMON"
     }
   ]
