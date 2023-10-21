@@ -1,6 +1,11 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "BO BUENA VISTA",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [
     {
       "zone": "BO LA GLORIA",
@@ -15,16 +20,15 @@
       "area": "TRUJILLO ALTO"
     },
     {
+      "zone": "COND RIVERAS DEL RIO",
+      "area": "TRUJILLO ALTO"
+    },
+    {
       "zone": "NUNEZ BO QDA GRANDE",
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [
-    {
-      "zone": "COND CAMINO REAL",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
       "zone": "Bo. Venezuela",
@@ -54,10 +58,6 @@
     },
     {
       "zone": "Bo. Nuevo",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "Urb. Fronteras",
       "area": "BAYAMON"
     }
   ]
