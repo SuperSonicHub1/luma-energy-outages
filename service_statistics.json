@@ -19,8 +19,8 @@
     {
       "name": "Carolina",
       "totalClients": 141663,
-      "totalClientsWithoutService": 0,
-      "totalClientsWithService": 141663,
+      "totalClientsWithoutService": 1,
+      "totalClientsWithService": 141662,
       "percentageClientsWithoutService": 0,
       "percentageClientsWithService": 100
     },
@@ -43,26 +43,26 @@
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 3,
-      "totalClientsWithService": 212505,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
+      "totalClientsWithoutService": 12,
+      "totalClientsWithService": 212496,
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
     },
     {
       "name": "San Juan",
       "totalClients": 253068,
-      "totalClientsWithoutService": 4,
-      "totalClientsWithService": 253064,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
+      "totalClientsWithoutService": 159,
+      "totalClientsWithService": 252909,
+      "percentageClientsWithoutService": 0.06,
+      "percentageClientsWithService": 99.94
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 824,
+    "totalClientsWithoutService": 989,
     "totalClients": 1468223,
-    "totalClientsWithService": 1467399,
-    "totalPercentageWithoutService": 0.06,
-    "totalPercentageWithService": 99.94
+    "totalClientsWithService": 1467234,
+    "totalPercentageWithoutService": 0.07,
+    "totalPercentageWithService": 99.93
   },
-  "timestamp": "10/25/2023 05:25 AM"
+  "timestamp": "10/25/2023 05:35 AM"
 }
