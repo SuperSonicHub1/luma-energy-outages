@@ -1,5 +1,14 @@
 {
-  "CATANO": [],
+  "CATANO": [
+    {
+      "zone": "URB JARD DE CATANO",
+      "area": "CATANO"
+    },
+    {
+      "zone": "URB JDNES CATANO",
+      "area": "CATANO"
+    }
+  ],
   "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
@@ -29,6 +38,10 @@
       "area": "GUAYNABO"
     },
     {
+      "zone": "PORTICOS DE GUAYNABO",
+      "area": "GUAYNABO"
+    },
+    {
       "zone": "SANTA ROSA",
       "area": "GUAYNABO"
     }
@@ -36,6 +49,10 @@
   "SAN JUAN": [
     {
       "zone": "Apts. Colinas de San Juan",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Ave. Baldorioty De Castro",
       "area": "SAN JUAN"
     },
     {
@@ -83,10 +100,6 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB SANTA MARIA",
-      "area": "SAN JUAN"
-    },
-    {
       "zone": "URB SUMMIT HILLS",
       "area": "SAN JUAN"
     },
@@ -105,6 +118,10 @@
   ],
   "BAYAMON": [
     {
+      "zone": "BO CERRO GORDO",
+      "area": "BAYAMON"
+    },
+    {
       "zone": "BO MINILLAS SEC PEPE TORRES",
       "area": "BAYAMON"
     },
@@ -117,11 +134,27 @@
       "area": "BAYAMON"
     },
     {
+      "zone": "RIBERAS DEL RIO",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB ESTANCIAS DEL BOSQUE",
+      "area": "BAYAMON"
+    },
+    {
       "zone": "Urb. Colinas De Bayamon",
       "area": "BAYAMON"
     },
     {
       "zone": "Urb. Jardines de Caparra",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "Urb. Lomas Verdes",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "Urb. Santa Juanita",
       "area": "BAYAMON"
     }
   ]
