@@ -7,7 +7,12 @@
     }
   ],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "URB APOLO",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
       "zone": "Bo. Cupey Alto",
@@ -19,6 +24,10 @@
     },
     {
       "zone": "ESQ CALLE 13 BO OBRERO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "HATO REY NORTE",
       "area": "SAN JUAN"
     },
     {
@@ -40,11 +49,11 @@
   ],
   "BAYAMON": [
     {
-      "zone": "MINILLAS",
+      "zone": "URB SIERRA LINDA",
       "area": "BAYAMON"
     },
     {
-      "zone": "URB SIERRA LINDA",
+      "zone": "URB VERSALLES",
       "area": "BAYAMON"
     }
   ]
