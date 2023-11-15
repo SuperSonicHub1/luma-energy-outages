@@ -6,8 +6,18 @@
       "area": "CAROLINA"
     }
   ],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "Bo. Las Cuevas",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
+  "GUAYNABO": [
+    {
+      "zone": "SANTA ROSA",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
       "zone": "EL CINCO",
@@ -28,12 +38,10 @@
     {
       "zone": "URB BELISA",
       "area": "SAN JUAN"
+    },
+    {
+      "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "Urb. Forest Hills",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }
