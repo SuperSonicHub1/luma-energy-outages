@@ -1,7 +1,12 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "LA GLORIA",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [
     {
       "zone": "URB GOLDEN GATE",
@@ -10,9 +15,18 @@
   ],
   "SAN JUAN": [
     {
+      "zone": "URB VILLA GRANADA",
+      "area": "SAN JUAN"
+    },
+    {
       "zone": "Urb. Las Lomas",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "BUENA VISTA",
+      "area": "BAYAMON"
+    }
+  ]
 }
