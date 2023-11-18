@@ -5,8 +5,22 @@
       "area": "CATANO"
     }
   ],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "CAROLINA": [
+    {
+      "zone": "ESTANCIAS CAMPO LLANO",
+      "area": "CAROLINA"
+    }
+  ],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "BO LA GLORIA",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "Bo. Carraizo",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [
     {
       "zone": "COND ALAMANDA",
@@ -14,6 +28,10 @@
     },
     {
       "zone": "ESTANCIAS REALES",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "FRAILES",
       "area": "GUAYNABO"
     },
     {
@@ -31,10 +49,6 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "BO CAIMITO/SEC LOS COCOS",
-      "area": "SAN JUAN"
-    },
-    {
       "zone": "Bo. Obrero",
       "area": "SAN JUAN"
     },
@@ -43,11 +57,11 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "COND ALTOMONTE",
+      "zone": "COND MADRID PLAZA",
       "area": "SAN JUAN"
     },
     {
-      "zone": "COND TORRES DE CERVANTES",
+      "zone": "COND PARQUE DE MONACILLOS",
       "area": "SAN JUAN"
     },
     {
@@ -84,9 +98,6 @@
     },
     {
       "zone": "URB SANTIAGO IGLESIAS",
-      "area": "SAN JUAN"
-    },
-    {
       "area": "SAN JUAN"
     }
   ],
