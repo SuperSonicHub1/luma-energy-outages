@@ -1,10 +1,5 @@
 {
-  "CATANO": [
-    {
-      "zone": "URB MANS DEL NORTE",
-      "area": "CATANO"
-    }
-  ],
+  "CATANO": [],
   "CAROLINA": [
     {
       "zone": "Ave. Isla Verde",
@@ -29,15 +24,16 @@
       "area": "TRUJILLO ALTO"
     },
     {
-      "zone": "URB LAGO ALTO",
-      "area": "TRUJILLO ALTO"
-    },
-    {
       "zone": "URB MONTE TRUJILLO",
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "FRAILES",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
       "zone": "Bda. Trastalleres",
@@ -58,11 +54,7 @@
   ],
   "BAYAMON": [
     {
-      "zone": "BUENA VISTA SECTOR MONTANEZ",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "CERRO GORDO SECT MONTANEZ",
+      "zone": "BUENA VISTA",
       "area": "BAYAMON"
     }
   ]
