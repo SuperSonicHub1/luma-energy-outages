@@ -11,24 +11,24 @@
     {
       "name": "Bayamon",
       "totalClients": 216496,
-      "totalClientsWithoutService": 1,
-      "totalClientsWithService": 216495,
+      "totalClientsWithoutService": 0,
+      "totalClientsWithService": 216496,
       "percentageClientsWithoutService": 0,
       "percentageClientsWithService": 100
     },
     {
       "name": "Carolina",
       "totalClients": 141663,
-      "totalClientsWithoutService": 2,
-      "totalClientsWithService": 141661,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
+      "totalClientsWithoutService": 30,
+      "totalClientsWithService": 141633,
+      "percentageClientsWithoutService": 0.02,
+      "percentageClientsWithService": 99.98
     },
     {
       "name": "Caguas",
       "totalClients": 250514,
-      "totalClientsWithoutService": 9,
-      "totalClientsWithService": 250505,
+      "totalClientsWithoutService": 3,
+      "totalClientsWithService": 250511,
       "percentageClientsWithoutService": 0,
       "percentageClientsWithService": 100
     },
@@ -43,8 +43,8 @@
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 116,
-      "totalClientsWithService": 212392,
+      "totalClientsWithoutService": 115,
+      "totalClientsWithService": 212393,
       "percentageClientsWithoutService": 0.05,
       "percentageClientsWithService": 99.95
     },
@@ -58,11 +58,11 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 7488,
+    "totalClientsWithoutService": 7508,
     "totalClients": 1468223,
-    "totalClientsWithService": 1460735,
+    "totalClientsWithService": 1460715,
     "totalPercentageWithoutService": 0.51,
     "totalPercentageWithService": 99.49
   },
-  "timestamp": "11/27/2023 06:35 PM"
+  "timestamp": "11/27/2023 06:45 PM"
 }
