@@ -1,6 +1,15 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "COND BALCONES DE CAROLINA",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "MARTIN GONZALEZ",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [
     {
       "zone": "QUEBRADA NEGRITO",
@@ -11,10 +20,6 @@
   "SAN JUAN": [
     {
       "zone": "ESTANCIAS DE SAN GERARDO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "HATO REY NORTE",
       "area": "SAN JUAN"
     },
     {
@@ -34,5 +39,14 @@
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "JUAN SANCHEZ",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "VILLA ESPA{A BAYAMON",
+      "area": "BAYAMON"
+    }
+  ]
 }
