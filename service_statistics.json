@@ -1,5 +1,68 @@
 {
-  "statusCode": 500,
-  "message": "Internal server error",
-  "activityId": "aca551fb-94d9-4633-af40-db8807e3314f"
+  "regions": [
+    {
+      "name": "Arecibo",
+      "totalClients": 177369,
+      "totalClientsWithoutService": 15,
+      "totalClientsWithService": 177354,
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
+    },
+    {
+      "name": "Bayamon",
+      "totalClients": 216496,
+      "totalClientsWithoutService": 51,
+      "totalClientsWithService": 216445,
+      "percentageClientsWithoutService": 0.02,
+      "percentageClientsWithService": 99.98
+    },
+    {
+      "name": "Carolina",
+      "totalClients": 141663,
+      "totalClientsWithoutService": 10,
+      "totalClientsWithService": 141653,
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
+    },
+    {
+      "name": "Caguas",
+      "totalClients": 250514,
+      "totalClientsWithoutService": 193,
+      "totalClientsWithService": 250321,
+      "percentageClientsWithoutService": 0.08,
+      "percentageClientsWithService": 99.92
+    },
+    {
+      "name": "Mayaguez",
+      "totalClients": 216605,
+      "totalClientsWithoutService": 28,
+      "totalClientsWithService": 216577,
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
+    },
+    {
+      "name": "Ponce",
+      "totalClients": 212508,
+      "totalClientsWithoutService": 13,
+      "totalClientsWithService": 212495,
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
+    },
+    {
+      "name": "San Juan",
+      "totalClients": 253068,
+      "totalClientsWithoutService": 59,
+      "totalClientsWithService": 253009,
+      "percentageClientsWithoutService": 0.02,
+      "percentageClientsWithService": 99.98
+    }
+  ],
+  "totals": {
+    "totalClientsWithoutService": 369,
+    "totalClients": 1468223,
+    "totalClientsWithService": 1467854,
+    "totalPercentageWithoutService": 0.03,
+    "totalPercentageWithService": 99.97
+  },
+  "timestamp": "12/04/2023 08:35 AM"
 }
