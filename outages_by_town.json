@@ -1,6 +1,11 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "URB VISTAMAR",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [
     {
       "zone": "CARRAIZO BAJO",
@@ -11,19 +16,23 @@
     {
       "zone": "Bo. Mamey",
       "area": "GUAYNABO"
+    },
+    {
+      "zone": "URB. VILLA CLEMENTINA",
+      "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
+    {
+      "zone": "Bo. Venezuela",
+      "area": "SAN JUAN"
+    },
     {
       "zone": "URB PUERTO NUEVO",
       "area": "SAN JUAN"
     },
     {
       "zone": "URB SAN FRANCISCO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB SANTIAGO IGLESIAS",
       "area": "SAN JUAN"
     }
   ],
