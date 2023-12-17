@@ -16,10 +16,6 @@
       "area": "TRUJILLO ALTO"
     },
     {
-      "zone": "Casco Urbano Truj. Alt",
-      "area": "TRUJILLO ALTO"
-    },
-    {
       "zone": "QUEBRADA NEGRITO",
       "area": "TRUJILLO ALTO"
     },
@@ -32,14 +28,15 @@
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "BO RIO",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
       "zone": "CAIMITO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "COUNTRY CLUB",
       "area": "SAN JUAN"
     },
     {
@@ -75,13 +72,14 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "VER 15-12 NO DESC X DEP",
-      "area": "SAN JUAN"
-    },
-    {
       "zone": "Viejo San Juan",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "BO CERRO GORDO LA ALDEA",
+      "area": "BAYAMON"
+    }
+  ]
 }
