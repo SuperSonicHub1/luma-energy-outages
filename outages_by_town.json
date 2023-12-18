@@ -1,10 +1,5 @@
 {
-  "CATANO": [
-    {
-      "zone": "URB LAS VEGAS",
-      "area": "CATANO"
-    }
-  ],
+  "CATANO": [],
   "CAROLINA": [
     {
       "zone": "HOYO MULAS",
@@ -17,7 +12,11 @@
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
       "zone": "APT 8C P8",
@@ -33,10 +32,6 @@
     },
     {
       "zone": "MONACILLO URBANO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "ORIENTE",
       "area": "SAN JUAN"
     },
     {
@@ -70,19 +65,7 @@
       "area": "BAYAMON"
     },
     {
-      "zone": "URB AVENTURA",
-      "area": "BAYAMON"
-    },
-    {
       "zone": "URB CAMPO ALEGRE",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "URB LOMAS VERDES",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "URB MIRAFLORES",
       "area": "BAYAMON"
     }
   ]
