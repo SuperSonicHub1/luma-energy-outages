@@ -3,18 +3,18 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 0,
-      "totalClientsWithService": 177369,
+      "totalClientsWithoutService": 1,
+      "totalClientsWithService": 177368,
       "percentageClientsWithoutService": 0,
       "percentageClientsWithService": 100
     },
     {
       "name": "Bayamon",
       "totalClients": 216496,
-      "totalClientsWithoutService": 0,
-      "totalClientsWithService": 216496,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
+      "totalClientsWithoutService": 14,
+      "totalClientsWithService": 216482,
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
     },
     {
       "name": "Carolina",
@@ -27,10 +27,10 @@
     {
       "name": "Caguas",
       "totalClients": 250514,
-      "totalClientsWithoutService": 24,
-      "totalClientsWithService": 250490,
-      "percentageClientsWithoutService": 0.01,
-      "percentageClientsWithService": 99.99
+      "totalClientsWithoutService": 1,
+      "totalClientsWithService": 250513,
+      "percentageClientsWithoutService": 0,
+      "percentageClientsWithService": 100
     },
     {
       "name": "Mayaguez",
@@ -43,26 +43,26 @@
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 8,
-      "totalClientsWithService": 212500,
+      "totalClientsWithoutService": 0,
+      "totalClientsWithService": 212508,
       "percentageClientsWithoutService": 0,
       "percentageClientsWithService": 100
     },
     {
       "name": "San Juan",
       "totalClients": 253068,
-      "totalClientsWithoutService": 889,
-      "totalClientsWithService": 252179,
-      "percentageClientsWithoutService": 0.35,
-      "percentageClientsWithService": 99.65
+      "totalClientsWithoutService": 1,
+      "totalClientsWithService": 253067,
+      "percentageClientsWithoutService": 0,
+      "percentageClientsWithService": 100
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 924,
+    "totalClientsWithoutService": 20,
     "totalClients": 1468223,
-    "totalClientsWithService": 1467299,
-    "totalPercentageWithoutService": 0.06,
-    "totalPercentageWithService": 99.94
+    "totalClientsWithService": 1468203,
+    "totalPercentageWithoutService": 0,
+    "totalPercentageWithService": 100
   },
-  "timestamp": "12/25/2023 05:50 PM"
+  "timestamp": "12/25/2023 06:05 PM"
 }
