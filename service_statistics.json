@@ -3,26 +3,26 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 0,
-      "totalClientsWithService": 177369,
+      "totalClientsWithoutService": 3,
+      "totalClientsWithService": 177366,
       "percentageClientsWithoutService": 0,
       "percentageClientsWithService": 100
     },
     {
       "name": "Bayamon",
       "totalClients": 216496,
-      "totalClientsWithoutService": 4,
-      "totalClientsWithService": 216492,
+      "totalClientsWithoutService": 3,
+      "totalClientsWithService": 216493,
       "percentageClientsWithoutService": 0,
       "percentageClientsWithService": 100
     },
     {
       "name": "Carolina",
       "totalClients": 141663,
-      "totalClientsWithoutService": 0,
-      "totalClientsWithService": 141663,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
+      "totalClientsWithoutService": 1113,
+      "totalClientsWithService": 140550,
+      "percentageClientsWithoutService": 0.79,
+      "percentageClientsWithService": 99.21
     },
     {
       "name": "Caguas",
@@ -35,16 +35,16 @@
     {
       "name": "Mayaguez",
       "totalClients": 216605,
-      "totalClientsWithoutService": 55,
-      "totalClientsWithService": 216550,
-      "percentageClientsWithoutService": 0.03,
-      "percentageClientsWithService": 99.97
+      "totalClientsWithoutService": 1,
+      "totalClientsWithService": 216604,
+      "percentageClientsWithoutService": 0,
+      "percentageClientsWithService": 100
     },
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 0,
-      "totalClientsWithService": 212508,
+      "totalClientsWithoutService": 1,
+      "totalClientsWithService": 212507,
       "percentageClientsWithoutService": 0,
       "percentageClientsWithService": 100
     },
@@ -58,11 +58,11 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 303,
+    "totalClientsWithoutService": 1365,
     "totalClients": 1468223,
-    "totalClientsWithService": 1467920,
-    "totalPercentageWithoutService": 0.02,
-    "totalPercentageWithService": 99.98
+    "totalClientsWithService": 1466858,
+    "totalPercentageWithoutService": 0.09,
+    "totalPercentageWithService": 99.91
   },
-  "timestamp": "12/25/2023 07:55 PM"
+  "timestamp": "12/25/2023 08:55 PM"
 }
