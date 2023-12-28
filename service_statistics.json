@@ -3,16 +3,16 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 0,
-      "totalClientsWithService": 177369,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
+      "totalClientsWithoutService": 25,
+      "totalClientsWithService": 177344,
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
     },
     {
       "name": "Bayamon",
       "totalClients": 216496,
-      "totalClientsWithoutService": 2414,
-      "totalClientsWithService": 214082,
+      "totalClientsWithoutService": 2415,
+      "totalClientsWithService": 214081,
       "percentageClientsWithoutService": 1.12,
       "percentageClientsWithService": 98.88
     },
@@ -43,10 +43,10 @@
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 1134,
-      "totalClientsWithService": 211374,
-      "percentageClientsWithoutService": 0.53,
-      "percentageClientsWithService": 99.47
+      "totalClientsWithoutService": 1147,
+      "totalClientsWithService": 211361,
+      "percentageClientsWithoutService": 0.54,
+      "percentageClientsWithService": 99.46
     },
     {
       "name": "San Juan",
@@ -58,11 +58,11 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 5311,
+    "totalClientsWithoutService": 5350,
     "totalClients": 1468223,
-    "totalClientsWithService": 1462912,
+    "totalClientsWithService": 1462873,
     "totalPercentageWithoutService": 0.36,
     "totalPercentageWithService": 99.64
   },
-  "timestamp": "12/28/2023 05:05 PM"
+  "timestamp": "12/28/2023 05:20 PM"
 }
