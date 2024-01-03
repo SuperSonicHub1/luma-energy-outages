@@ -16,8 +16,17 @@
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "FRAILES",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
+    {
+      "zone": "LA CUMBRE",
+      "area": "SAN JUAN"
+    },
     {
       "zone": "SABANA LLANA NORTE",
       "area": "SAN JUAN"
@@ -37,11 +46,12 @@
     {
       "zone": "URB HIGHLAND PARK",
       "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB LAS LOMAS",
-      "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "URB ALTURAS DE FLAMBOYAN",
+      "area": "BAYAMON"
+    }
+  ]
 }
