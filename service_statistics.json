@@ -3,24 +3,24 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 0,
-      "totalClientsWithService": 177369,
+      "totalClientsWithoutService": 1,
+      "totalClientsWithService": 177368,
       "percentageClientsWithoutService": 0,
       "percentageClientsWithService": 100
     },
     {
       "name": "Bayamon",
       "totalClients": 216496,
-      "totalClientsWithoutService": 50,
-      "totalClientsWithService": 216446,
-      "percentageClientsWithoutService": 0.02,
-      "percentageClientsWithService": 99.98
+      "totalClientsWithoutService": 221,
+      "totalClientsWithService": 216275,
+      "percentageClientsWithoutService": 0.1,
+      "percentageClientsWithService": 99.9
     },
     {
       "name": "Carolina",
       "totalClients": 141663,
-      "totalClientsWithoutService": 1,
-      "totalClientsWithService": 141662,
+      "totalClientsWithoutService": 7,
+      "totalClientsWithService": 141656,
       "percentageClientsWithoutService": 0,
       "percentageClientsWithService": 100
     },
@@ -58,11 +58,11 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 72,
+    "totalClientsWithoutService": 250,
     "totalClients": 1468223,
-    "totalClientsWithService": 1468151,
-    "totalPercentageWithoutService": 0,
-    "totalPercentageWithService": 100
+    "totalClientsWithService": 1467973,
+    "totalPercentageWithoutService": 0.02,
+    "totalPercentageWithService": 99.98
   },
-  "timestamp": "01/07/2024 06:00 PM"
+  "timestamp": "01/07/2024 06:20 PM"
 }
