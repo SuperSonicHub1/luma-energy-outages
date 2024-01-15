@@ -11,10 +11,27 @@
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "COND  BEVERLY HILLS COURT",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "URB SANTA CLARA",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
       "zone": "CAIMITO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "COND ALTOMONTE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "CORDOVA PARK",
       "area": "SAN JUAN"
     },
     {
@@ -26,5 +43,10 @@
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "Urb. Magnolia",
+      "area": "BAYAMON"
+    }
+  ]
 }
