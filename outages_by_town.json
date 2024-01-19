@@ -13,6 +13,10 @@
     {
       "zone": "SABANA ABAJO",
       "area": "CAROLINA"
+    },
+    {
+      "zone": "URB METROPOLIS",
+      "area": "CAROLINA"
     }
   ],
   "TRUJILLO ALTO": [
@@ -21,7 +25,12 @@
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "REPARTO APOLO",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
       "zone": "Ave. 65 De Infanteria",
@@ -48,7 +57,19 @@
       "area": "SAN JUAN"
     },
     {
+      "zone": "SEC LA CORTE BO TORTUGO",
+      "area": "SAN JUAN"
+    },
+    {
       "zone": "URB PUB JARDINES SELLES",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB RIO PIEDRAS HEIGHTS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB VILLA ANDALUCIA",
       "area": "SAN JUAN"
     }
   ],
@@ -63,10 +84,6 @@
     },
     {
       "zone": "HATO TEJAS",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "REPTO FLAMINGO",
       "area": "BAYAMON"
     }
   ]
