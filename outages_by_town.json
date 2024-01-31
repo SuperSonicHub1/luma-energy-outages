@@ -2,10 +2,6 @@
   "CATANO": [],
   "CAROLINA": [
     {
-      "zone": "CANOVANILLAS",
-      "area": "CAROLINA"
-    },
-    {
       "zone": "ROLLING HILLS CAROLINA",
       "area": "CAROLINA"
     },
@@ -24,7 +20,12 @@
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "URB TORRIMAR",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
       "zone": "EL CERRO BO. ASOMANTE",
@@ -48,6 +49,10 @@
     },
     {
       "zone": "URB RIVIERAS DE CUPEY",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB SUMMIT HILLS",
       "area": "SAN JUAN"
     }
   ],
