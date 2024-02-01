@@ -3,8 +3,8 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 987,
-      "totalClientsWithService": 176382,
+      "totalClientsWithoutService": 986,
+      "totalClientsWithService": 176383,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.56,
       "percentageClientsWithService": 99.44
@@ -30,8 +30,8 @@
     {
       "name": "San Juan",
       "totalClients": 253068,
-      "totalClientsWithoutService": 727,
-      "totalClientsWithService": 252341,
+      "totalClientsWithoutService": 728,
+      "totalClientsWithService": 252340,
       "totalClientsAffectedByPlannedOutage": 427,
       "percentageClientsWithoutService": 0.29,
       "percentageClientsWithService": 99.71
@@ -39,8 +39,8 @@
     {
       "name": "Carolina",
       "totalClients": 141663,
-      "totalClientsWithoutService": 254,
-      "totalClientsWithService": 141409,
+      "totalClientsWithoutService": 261,
+      "totalClientsWithService": 141402,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.18,
       "percentageClientsWithService": 99.82
@@ -48,11 +48,11 @@
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 6,
-      "totalClientsWithService": 212502,
+      "totalClientsWithoutService": 23,
+      "totalClientsWithService": 212485,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
     },
     {
       "name": "Caguas",
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 2265,
+    "totalClientsWithoutService": 2289,
     "totalClients": 1468223,
-    "totalClientsWithService": 1465958,
-    "totalPercentageWithoutService": 0.15,
+    "totalClientsWithService": 1465934,
+    "totalPercentageWithoutService": 0.16,
     "totalClientsAffectedByPlannedOutage": 568,
-    "totalPercentageWithService": 99.85
+    "totalPercentageWithService": 99.84
   },
-  "timestamp": "02/01/2024 07:20 PM"
+  "timestamp": "02/01/2024 07:30 PM"
 }
