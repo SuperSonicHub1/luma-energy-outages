@@ -3,11 +3,11 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 6,
-      "totalClientsWithService": 177363,
+      "totalClientsWithoutService": 12,
+      "totalClientsWithService": 177357,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
     },
     {
       "name": "Mayaguez",
@@ -30,8 +30,8 @@
     {
       "name": "San Juan",
       "totalClients": 253068,
-      "totalClientsWithoutService": 3285,
-      "totalClientsWithService": 249783,
+      "totalClientsWithoutService": 3284,
+      "totalClientsWithService": 249784,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 1.3,
       "percentageClientsWithService": 98.7
@@ -39,8 +39,8 @@
     {
       "name": "Carolina",
       "totalClients": 141663,
-      "totalClientsWithoutService": 112,
-      "totalClientsWithService": 141551,
+      "totalClientsWithoutService": 113,
+      "totalClientsWithService": 141550,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.08,
       "percentageClientsWithService": 99.92
@@ -48,8 +48,8 @@
     {
       "name": "Caguas",
       "totalClients": 250514,
-      "totalClientsWithoutService": 138,
-      "totalClientsWithService": 250376,
+      "totalClientsWithoutService": 140,
+      "totalClientsWithService": 250374,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.06,
       "percentageClientsWithService": 99.94
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 3874,
+    "totalClientsWithoutService": 3882,
     "totalClients": 1468223,
-    "totalClientsWithService": 1464349,
+    "totalClientsWithService": 1464341,
     "totalPercentageWithoutService": 0.26,
     "totalClientsAffectedByPlannedOutage": 22,
     "totalPercentageWithService": 99.74
   },
-  "timestamp": "02/04/2024 12:40 PM"
+  "timestamp": "02/04/2024 12:50 PM"
 }
