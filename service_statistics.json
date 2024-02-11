@@ -21,11 +21,11 @@
     {
       "name": "Mayaguez",
       "totalClients": 216605,
-      "totalClientsWithoutService": 0,
-      "totalClientsWithService": 216605,
+      "totalClientsWithoutService": 14,
+      "totalClientsWithService": 216591,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
     },
     {
       "name": "San Juan",
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 283,
+    "totalClientsWithoutService": 297,
     "totalClients": 1468223,
-    "totalClientsWithService": 1467940,
+    "totalClientsWithService": 1467926,
     "totalPercentageWithoutService": 0.02,
     "totalClientsAffectedByPlannedOutage": 0,
     "totalPercentageWithService": 99.98
   },
-  "timestamp": "02/11/2024 12:00 AM"
+  "timestamp": "02/11/2024 12:20 AM"
 }
