@@ -21,20 +21,20 @@
     {
       "name": "Bayamon",
       "totalClients": 216496,
-      "totalClientsWithoutService": 3,
-      "totalClientsWithService": 216493,
+      "totalClientsWithoutService": 27,
+      "totalClientsWithService": 216469,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
     },
     {
       "name": "San Juan",
       "totalClients": 253068,
-      "totalClientsWithoutService": 23,
-      "totalClientsWithService": 253045,
+      "totalClientsWithoutService": 231,
+      "totalClientsWithService": 252837,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.01,
-      "percentageClientsWithService": 99.99
+      "percentageClientsWithoutService": 0.09,
+      "percentageClientsWithService": 99.91
     },
     {
       "name": "Carolina",
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 242,
+    "totalClientsWithoutService": 474,
     "totalClients": 1468223,
-    "totalClientsWithService": 1467981,
-    "totalPercentageWithoutService": 0.02,
+    "totalClientsWithService": 1467749,
+    "totalPercentageWithoutService": 0.03,
     "totalClientsAffectedByPlannedOutage": 0,
-    "totalPercentageWithService": 99.98
+    "totalPercentageWithService": 99.97
   },
-  "timestamp": "02/12/2024 03:55 AM"
+  "timestamp": "02/12/2024 04:20 AM"
 }
