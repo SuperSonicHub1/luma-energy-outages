@@ -21,11 +21,11 @@
     {
       "name": "Mayaguez",
       "totalClients": 216605,
-      "totalClientsWithoutService": 221,
-      "totalClientsWithService": 216384,
+      "totalClientsWithoutService": 103,
+      "totalClientsWithService": 216502,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.1,
-      "percentageClientsWithService": 99.9
+      "percentageClientsWithoutService": 0.05,
+      "percentageClientsWithService": 99.95
     },
     {
       "name": "San Juan",
@@ -57,20 +57,20 @@
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 208,
-      "totalClientsWithService": 212300,
+      "totalClientsWithoutService": 78,
+      "totalClientsWithService": 212430,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.1,
-      "percentageClientsWithService": 99.9
+      "percentageClientsWithoutService": 0.04,
+      "percentageClientsWithService": 99.96
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 5368,
+    "totalClientsWithoutService": 5120,
     "totalClients": 1468223,
-    "totalClientsWithService": 1462855,
-    "totalPercentageWithoutService": 0.37,
+    "totalClientsWithService": 1463103,
+    "totalPercentageWithoutService": 0.35,
     "totalClientsAffectedByPlannedOutage": 0,
-    "totalPercentageWithService": 99.63
+    "totalPercentageWithService": 99.65
   },
-  "timestamp": "02/13/2024 10:20 PM"
+  "timestamp": "02/13/2024 10:30 PM"
 }
