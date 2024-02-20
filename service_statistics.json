@@ -48,11 +48,11 @@
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 4,
-      "totalClientsWithService": 212504,
+      "totalClientsWithoutService": 24,
+      "totalClientsWithService": 212484,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
     },
     {
       "name": "Caguas",
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 416,
+    "totalClientsWithoutService": 436,
     "totalClients": 1468223,
-    "totalClientsWithService": 1467807,
+    "totalClientsWithService": 1467787,
     "totalPercentageWithoutService": 0.03,
     "totalClientsAffectedByPlannedOutage": 0,
     "totalPercentageWithService": 99.97
   },
-  "timestamp": "02/19/2024 10:55 PM"
+  "timestamp": "02/19/2024 11:10 PM"
 }
