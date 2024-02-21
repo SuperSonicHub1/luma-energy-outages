@@ -3,11 +3,11 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 3,
-      "totalClientsWithService": 177366,
+      "totalClientsWithoutService": 11,
+      "totalClientsWithService": 177358,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
     },
     {
       "name": "Bayamon",
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 118,
+    "totalClientsWithoutService": 126,
     "totalClients": 1468223,
-    "totalClientsWithService": 1468105,
+    "totalClientsWithService": 1468097,
     "totalPercentageWithoutService": 0.01,
     "totalClientsAffectedByPlannedOutage": 0,
     "totalPercentageWithService": 99.99
   },
-  "timestamp": "02/21/2024 05:15 AM"
+  "timestamp": "02/21/2024 05:25 AM"
 }
