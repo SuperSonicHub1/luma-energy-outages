@@ -12,11 +12,11 @@
     {
       "name": "Mayaguez",
       "totalClients": 216605,
-      "totalClientsWithoutService": 3,
-      "totalClientsWithService": 216602,
+      "totalClientsWithoutService": 17,
+      "totalClientsWithService": 216588,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
     },
     {
       "name": "Bayamon",
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 4076,
+    "totalClientsWithoutService": 4090,
     "totalClients": 1468223,
-    "totalClientsWithService": 1464147,
+    "totalClientsWithService": 1464133,
     "totalPercentageWithoutService": 0.28,
     "totalClientsAffectedByPlannedOutage": 4,
     "totalPercentageWithService": 99.72
   },
-  "timestamp": "02/23/2024 10:30 PM"
+  "timestamp": "02/23/2024 10:40 PM"
 }
