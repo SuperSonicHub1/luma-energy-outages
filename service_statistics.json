@@ -30,8 +30,8 @@
     {
       "name": "San Juan",
       "totalClients": 253068,
-      "totalClientsWithoutService": 2,
-      "totalClientsWithService": 253066,
+      "totalClientsWithoutService": 3,
+      "totalClientsWithService": 253065,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0,
       "percentageClientsWithService": 100
@@ -39,8 +39,8 @@
     {
       "name": "Carolina",
       "totalClients": 141663,
-      "totalClientsWithoutService": 3,
-      "totalClientsWithService": 141660,
+      "totalClientsWithoutService": 4,
+      "totalClientsWithService": 141659,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0,
       "percentageClientsWithService": 100
@@ -48,29 +48,29 @@
     {
       "name": "Caguas",
       "totalClients": 250514,
-      "totalClientsWithoutService": 84,
-      "totalClientsWithService": 250430,
+      "totalClientsWithoutService": 256,
+      "totalClientsWithService": 250258,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.03,
-      "percentageClientsWithService": 99.97
+      "percentageClientsWithoutService": 0.1,
+      "percentageClientsWithService": 99.9
     },
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 42,
-      "totalClientsWithService": 212466,
+      "totalClientsWithoutService": 43,
+      "totalClientsWithService": 212465,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.02,
       "percentageClientsWithService": 99.98
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 685,
+    "totalClientsWithoutService": 860,
     "totalClients": 1468223,
-    "totalClientsWithService": 1467538,
-    "totalPercentageWithoutService": 0.05,
+    "totalClientsWithService": 1467363,
+    "totalPercentageWithoutService": 0.06,
     "totalClientsAffectedByPlannedOutage": 4,
-    "totalPercentageWithService": 99.95
+    "totalPercentageWithService": 99.94
   },
-  "timestamp": "02/24/2024 07:00 AM"
+  "timestamp": "02/24/2024 07:15 AM"
 }
