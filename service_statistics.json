@@ -3,20 +3,20 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 2191,
-      "totalClientsWithService": 175178,
+      "totalClientsWithoutService": 44,
+      "totalClientsWithService": 177325,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 1.24,
-      "percentageClientsWithService": 98.76
+      "percentageClientsWithoutService": 0.02,
+      "percentageClientsWithService": 99.98
     },
     {
       "name": "Mayaguez",
       "totalClients": 216605,
-      "totalClientsWithoutService": 12002,
-      "totalClientsWithService": 204603,
+      "totalClientsWithoutService": 212,
+      "totalClientsWithService": 216393,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 5.54,
-      "percentageClientsWithService": 94.46
+      "percentageClientsWithoutService": 0.1,
+      "percentageClientsWithService": 99.9
     },
     {
       "name": "Bayamon",
@@ -48,11 +48,11 @@
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 960,
-      "totalClientsWithService": 211548,
+      "totalClientsWithoutService": 1516,
+      "totalClientsWithService": 210992,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.45,
-      "percentageClientsWithService": 99.55
+      "percentageClientsWithoutService": 0.71,
+      "percentageClientsWithService": 99.29
     },
     {
       "name": "Caguas",
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 15273,
+    "totalClientsWithoutService": 1892,
     "totalClients": 1468223,
-    "totalClientsWithService": 1452950,
-    "totalPercentageWithoutService": 1.04,
+    "totalClientsWithService": 1466331,
+    "totalPercentageWithoutService": 0.13,
     "totalClientsAffectedByPlannedOutage": 30,
-    "totalPercentageWithService": 98.96
+    "totalPercentageWithService": 99.87
   },
-  "timestamp": "02/25/2024 06:00 PM"
+  "timestamp": "02/25/2024 06:15 PM"
 }
