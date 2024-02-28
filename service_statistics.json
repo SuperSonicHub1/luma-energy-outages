@@ -3,17 +3,17 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 101,
-      "totalClientsWithService": 177268,
+      "totalClientsWithoutService": 25,
+      "totalClientsWithService": 177344,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.06,
-      "percentageClientsWithService": 99.94
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
     },
     {
       "name": "Mayaguez",
       "totalClients": 216605,
-      "totalClientsWithoutService": 56,
-      "totalClientsWithService": 216549,
+      "totalClientsWithoutService": 68,
+      "totalClientsWithService": 216537,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.03,
       "percentageClientsWithService": 99.97
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 435,
+    "totalClientsWithoutService": 371,
     "totalClients": 1468223,
-    "totalClientsWithService": 1467788,
+    "totalClientsWithService": 1467852,
     "totalPercentageWithoutService": 0.03,
     "totalClientsAffectedByPlannedOutage": 0,
     "totalPercentageWithService": 99.97
   },
-  "timestamp": "02/27/2024 10:05 PM"
+  "timestamp": "02/27/2024 10:25 PM"
 }
