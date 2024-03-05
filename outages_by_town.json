@@ -2,10 +2,23 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "URB SANTA CLARA",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "Urb. Beverly Hills",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
       "zone": "Ave. Kennedy",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "CAM LOS ROMERO BO CAIMITO",
       "area": "SAN JUAN"
     },
     {
@@ -23,15 +36,19 @@
     {
       "zone": "URB ROOSEVELT",
       "area": "SAN JUAN"
+    },
+    {
+      "zone": "Urb. Hillside",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Urb. Los Árb. Mon.Hiedra",
+      "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
       "zone": "BO CERRO GORDO/SEC LOS RIVERA",
-      "area": "BAYAMON"
-    },
-    {
-      "zone": "BO NUEVO SECT MONTELLANO",
       "area": "BAYAMON"
     }
   ]
