@@ -3,17 +3,17 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 64,
-      "totalClientsWithService": 177305,
+      "totalClientsWithoutService": 39,
+      "totalClientsWithService": 177330,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.04,
-      "percentageClientsWithService": 99.96
+      "percentageClientsWithoutService": 0.02,
+      "percentageClientsWithService": 99.98
     },
     {
       "name": "Mayaguez",
       "totalClients": 216605,
-      "totalClientsWithoutService": 743,
-      "totalClientsWithService": 215862,
+      "totalClientsWithoutService": 730,
+      "totalClientsWithService": 215875,
       "totalClientsAffectedByPlannedOutage": 200,
       "percentageClientsWithoutService": 0.34,
       "percentageClientsWithService": 99.66
@@ -21,17 +21,17 @@
     {
       "name": "Bayamon",
       "totalClients": 216496,
-      "totalClientsWithoutService": 396,
-      "totalClientsWithService": 216100,
+      "totalClientsWithoutService": 407,
+      "totalClientsWithService": 216089,
       "totalClientsAffectedByPlannedOutage": 381,
-      "percentageClientsWithoutService": 0.18,
-      "percentageClientsWithService": 99.82
+      "percentageClientsWithoutService": 0.19,
+      "percentageClientsWithService": 99.81
     },
     {
       "name": "San Juan",
       "totalClients": 253068,
-      "totalClientsWithoutService": 968,
-      "totalClientsWithService": 252100,
+      "totalClientsWithoutService": 969,
+      "totalClientsWithService": 252099,
       "totalClientsAffectedByPlannedOutage": 953,
       "percentageClientsWithoutService": 0.38,
       "percentageClientsWithService": 99.62
@@ -48,29 +48,29 @@
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 197,
-      "totalClientsWithService": 212311,
+      "totalClientsWithoutService": 1088,
+      "totalClientsWithService": 211420,
       "totalClientsAffectedByPlannedOutage": 179,
-      "percentageClientsWithoutService": 0.09,
-      "percentageClientsWithService": 99.91
+      "percentageClientsWithoutService": 0.51,
+      "percentageClientsWithService": 99.49
     },
     {
       "name": "Caguas",
       "totalClients": 250514,
-      "totalClientsWithoutService": 4017,
-      "totalClientsWithService": 246497,
+      "totalClientsWithoutService": 4016,
+      "totalClientsWithService": 246498,
       "totalClientsAffectedByPlannedOutage": 77,
       "percentageClientsWithoutService": 1.6,
       "percentageClientsWithService": 98.4
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 6848,
+    "totalClientsWithoutService": 7712,
     "totalClients": 1468223,
-    "totalClientsWithService": 1461375,
-    "totalPercentageWithoutService": 0.47,
+    "totalClientsWithService": 1460511,
+    "totalPercentageWithoutService": 0.53,
     "totalClientsAffectedByPlannedOutage": 2251,
-    "totalPercentageWithService": 99.53
+    "totalPercentageWithService": 99.47
   },
-  "timestamp": "03/06/2024 09:25 AM"
+  "timestamp": "03/06/2024 09:35 AM"
 }
