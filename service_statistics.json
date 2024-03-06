@@ -39,11 +39,11 @@
     {
       "name": "Carolina",
       "totalClients": 141663,
-      "totalClientsWithoutService": 1,
-      "totalClientsWithService": 141662,
+      "totalClientsWithoutService": 250,
+      "totalClientsWithService": 141413,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
+      "percentageClientsWithoutService": 0.18,
+      "percentageClientsWithService": 99.82
     },
     {
       "name": "Ponce",
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 5218,
+    "totalClientsWithoutService": 5467,
     "totalClients": 1468223,
-    "totalClientsWithService": 1463005,
-    "totalPercentageWithoutService": 0.36,
+    "totalClientsWithService": 1462756,
+    "totalPercentageWithoutService": 0.37,
     "totalClientsAffectedByPlannedOutage": 963,
-    "totalPercentageWithService": 99.64
+    "totalPercentageWithService": 99.63
   },
-  "timestamp": "03/06/2024 12:25 AM"
+  "timestamp": "03/06/2024 12:35 AM"
 }
