@@ -2,14 +2,15 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "MAMEY",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
       "zone": "HATO REY NORTE",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB VILLA ANDALUCIA",
       "area": "SAN JUAN"
     }
   ],
@@ -20,6 +21,10 @@
     },
     {
       "zone": "VALLE DE CERRO GORDO",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "VALLES DE CERRO GORDO",
       "area": "BAYAMON"
     }
   ]
