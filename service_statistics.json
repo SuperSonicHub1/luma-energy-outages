@@ -3,11 +3,11 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 3,
-      "totalClientsWithService": 177366,
+      "totalClientsWithoutService": 21,
+      "totalClientsWithService": 177348,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
     },
     {
       "name": "Mayaguez",
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 75,
+    "totalClientsWithoutService": 93,
     "totalClients": 1468223,
-    "totalClientsWithService": 1468148,
+    "totalClientsWithService": 1468130,
     "totalPercentageWithoutService": 0.01,
     "totalClientsAffectedByPlannedOutage": 0,
     "totalPercentageWithService": 99.99
   },
-  "timestamp": "03/08/2024 07:20 PM"
+  "timestamp": "03/08/2024 07:30 PM"
 }
