@@ -3,17 +3,17 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 88,
-      "totalClientsWithService": 177281,
+      "totalClientsWithoutService": 1,
+      "totalClientsWithService": 177368,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.05,
-      "percentageClientsWithService": 99.95
+      "percentageClientsWithoutService": 0,
+      "percentageClientsWithService": 100
     },
     {
       "name": "Bayamon",
       "totalClients": 216496,
-      "totalClientsWithoutService": 650,
-      "totalClientsWithService": 215846,
+      "totalClientsWithoutService": 652,
+      "totalClientsWithService": 215844,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.3,
       "percentageClientsWithService": 99.7
@@ -48,8 +48,8 @@
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 312,
-      "totalClientsWithService": 212196,
+      "totalClientsWithoutService": 315,
+      "totalClientsWithService": 212193,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.15,
       "percentageClientsWithService": 99.85
@@ -57,20 +57,20 @@
     {
       "name": "Caguas",
       "totalClients": 250514,
-      "totalClientsWithoutService": 424,
-      "totalClientsWithService": 250090,
+      "totalClientsWithoutService": 427,
+      "totalClientsWithService": 250087,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.17,
       "percentageClientsWithService": 99.83
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 1952,
+    "totalClientsWithoutService": 1873,
     "totalClients": 1468223,
-    "totalClientsWithService": 1466271,
+    "totalClientsWithService": 1466350,
     "totalPercentageWithoutService": 0.13,
     "totalClientsAffectedByPlannedOutage": 78,
     "totalPercentageWithService": 99.87
   },
-  "timestamp": "03/12/2024 07:35 PM"
+  "timestamp": "03/12/2024 07:45 PM"
 }
