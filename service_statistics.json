@@ -3,11 +3,11 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 6,
-      "totalClientsWithService": 177363,
+      "totalClientsWithoutService": 18,
+      "totalClientsWithService": 177351,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
     },
     {
       "name": "Mayaguez",
@@ -30,8 +30,8 @@
     {
       "name": "San Juan",
       "totalClients": 253068,
-      "totalClientsWithoutService": 1648,
-      "totalClientsWithService": 251420,
+      "totalClientsWithoutService": 1650,
+      "totalClientsWithService": 251418,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.65,
       "percentageClientsWithService": 99.35
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 1896,
+    "totalClientsWithoutService": 1910,
     "totalClients": 1468223,
-    "totalClientsWithService": 1466327,
+    "totalClientsWithService": 1466313,
     "totalPercentageWithoutService": 0.13,
     "totalClientsAffectedByPlannedOutage": 0,
     "totalPercentageWithService": 99.87
   },
-  "timestamp": "03/16/2024 05:15 AM"
+  "timestamp": "03/16/2024 05:25 AM"
 }
