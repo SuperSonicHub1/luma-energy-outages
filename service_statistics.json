@@ -10,22 +10,22 @@
       "percentageClientsWithService": 99.99
     },
     {
-      "name": "Mayaguez",
-      "totalClients": 216605,
-      "totalClientsWithoutService": 82,
-      "totalClientsWithService": 216523,
-      "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.04,
-      "percentageClientsWithService": 99.96
-    },
-    {
       "name": "Bayamon",
       "totalClients": 216496,
-      "totalClientsWithoutService": 121,
-      "totalClientsWithService": 216375,
+      "totalClientsWithoutService": 128,
+      "totalClientsWithService": 216368,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.06,
       "percentageClientsWithService": 99.94
+    },
+    {
+      "name": "Mayaguez",
+      "totalClients": 216605,
+      "totalClientsWithoutService": 83,
+      "totalClientsWithService": 216522,
+      "totalClientsAffectedByPlannedOutage": 0,
+      "percentageClientsWithoutService": 0.04,
+      "percentageClientsWithService": 99.96
     },
     {
       "name": "San Juan",
@@ -48,11 +48,11 @@
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 17,
-      "totalClientsWithService": 212491,
+      "totalClientsWithoutService": 2,
+      "totalClientsWithService": 212506,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.01,
-      "percentageClientsWithService": 99.99
+      "percentageClientsWithoutService": 0,
+      "percentageClientsWithService": 100
     },
     {
       "name": "Caguas",
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 652,
+    "totalClientsWithoutService": 645,
     "totalClients": 1468223,
-    "totalClientsWithService": 1467571,
+    "totalClientsWithService": 1467578,
     "totalPercentageWithoutService": 0.04,
     "totalClientsAffectedByPlannedOutage": 0,
     "totalPercentageWithService": 99.96
   },
-  "timestamp": "03/18/2024 06:30 AM"
+  "timestamp": "03/18/2024 06:40 AM"
 }
