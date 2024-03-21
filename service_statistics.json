@@ -10,6 +10,15 @@
       "percentageClientsWithService": 99.77
     },
     {
+      "name": "Bayamon",
+      "totalClients": 216496,
+      "totalClientsWithoutService": 113,
+      "totalClientsWithService": 216383,
+      "totalClientsAffectedByPlannedOutage": 0,
+      "percentageClientsWithoutService": 0.05,
+      "percentageClientsWithService": 99.95
+    },
+    {
       "name": "Mayaguez",
       "totalClients": 216605,
       "totalClientsWithoutService": 232,
@@ -17,15 +26,6 @@
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.11,
       "percentageClientsWithService": 99.89
-    },
-    {
-      "name": "Bayamon",
-      "totalClients": 216496,
-      "totalClientsWithoutService": 395,
-      "totalClientsWithService": 216101,
-      "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.18,
-      "percentageClientsWithService": 99.82
     },
     {
       "name": "San Juan",
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 1910,
+    "totalClientsWithoutService": 1628,
     "totalClients": 1468223,
-    "totalClientsWithService": 1466313,
-    "totalPercentageWithoutService": 0.13,
+    "totalClientsWithService": 1466595,
+    "totalPercentageWithoutService": 0.11,
     "totalClientsAffectedByPlannedOutage": 0,
-    "totalPercentageWithService": 99.87
+    "totalPercentageWithService": 99.89
   },
-  "timestamp": "03/20/2024 10:55 PM"
+  "timestamp": "03/20/2024 11:10 PM"
 }
