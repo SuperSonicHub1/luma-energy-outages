@@ -21,8 +21,8 @@
     {
       "name": "Bayamon",
       "totalClients": 216496,
-      "totalClientsWithoutService": 523,
-      "totalClientsWithService": 215973,
+      "totalClientsWithoutService": 522,
+      "totalClientsWithService": 215974,
       "totalClientsAffectedByPlannedOutage": 503,
       "percentageClientsWithoutService": 0.24,
       "percentageClientsWithService": 99.76
@@ -39,11 +39,20 @@
     {
       "name": "Carolina",
       "totalClients": 141663,
-      "totalClientsWithoutService": 7,
-      "totalClientsWithService": 141656,
+      "totalClientsWithoutService": 6,
+      "totalClientsWithService": 141657,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0,
       "percentageClientsWithService": 100
+    },
+    {
+      "name": "Caguas",
+      "totalClients": 250514,
+      "totalClientsWithoutService": 1273,
+      "totalClientsWithService": 249241,
+      "totalClientsAffectedByPlannedOutage": 903,
+      "percentageClientsWithoutService": 0.51,
+      "percentageClientsWithService": 99.49
     },
     {
       "name": "Ponce",
@@ -53,24 +62,15 @@
       "totalClientsAffectedByPlannedOutage": 1914,
       "percentageClientsWithoutService": 2.68,
       "percentageClientsWithService": 97.32
-    },
-    {
-      "name": "Caguas",
-      "totalClients": 250514,
-      "totalClientsWithoutService": 1041,
-      "totalClientsWithService": 249473,
-      "totalClientsAffectedByPlannedOutage": 903,
-      "percentageClientsWithoutService": 0.42,
-      "percentageClientsWithService": 99.58
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 14587,
+    "totalClientsWithoutService": 14817,
     "totalClients": 1468223,
-    "totalClientsWithService": 1453636,
-    "totalPercentageWithoutService": 0.99,
+    "totalClientsWithService": 1453406,
+    "totalPercentageWithoutService": 1.01,
     "totalClientsAffectedByPlannedOutage": 6651,
-    "totalPercentageWithService": 99.01
+    "totalPercentageWithService": 98.99
   },
-  "timestamp": "03/21/2024 01:35 PM"
+  "timestamp": "03/21/2024 01:45 PM"
 }
