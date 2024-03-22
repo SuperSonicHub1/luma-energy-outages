@@ -1,15 +1,29 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "CAROLINA": [
+    {
+      "zone": "URB ROLLING HILLS",
+      "area": "CAROLINA"
+    }
+  ],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "CAMINO LOS POMALES",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "CARRAIZO",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "COND CAMPO REAL",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
       "zone": "RES LOS LIRIOS",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB CAPARRA HEIGHTS",
       "area": "SAN JUAN"
     },
     {
@@ -18,6 +32,14 @@
     }
   ],
   "BAYAMON": [
+    {
+      "zone": "Bo. Buena Vista",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "Parc. Vanscoy",
+      "area": "BAYAMON"
+    },
     {
       "zone": "URB SANTA JUANITA",
       "area": "BAYAMON"
