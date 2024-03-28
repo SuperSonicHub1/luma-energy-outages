@@ -39,17 +39,17 @@
     {
       "name": "Carolina",
       "totalClients": 141663,
-      "totalClientsWithoutService": 1,
-      "totalClientsWithService": 141662,
+      "totalClientsWithoutService": 22,
+      "totalClientsWithService": 141641,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
+      "percentageClientsWithoutService": 0.02,
+      "percentageClientsWithService": 99.98
     },
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 21,
-      "totalClientsWithService": 212487,
+      "totalClientsWithoutService": 23,
+      "totalClientsWithService": 212485,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.01,
       "percentageClientsWithService": 99.99
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 1614,
+    "totalClientsWithoutService": 1637,
     "totalClients": 1468223,
-    "totalClientsWithService": 1466609,
+    "totalClientsWithService": 1466586,
     "totalPercentageWithoutService": 0.11,
     "totalClientsAffectedByPlannedOutage": 0,
     "totalPercentageWithService": 99.89
   },
-  "timestamp": "03/28/2024 07:35 AM"
+  "timestamp": "03/28/2024 07:45 AM"
 }
