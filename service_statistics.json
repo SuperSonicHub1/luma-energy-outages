@@ -10,6 +10,15 @@
       "percentageClientsWithService": 100
     },
     {
+      "name": "Mayaguez",
+      "totalClients": 216605,
+      "totalClientsWithoutService": 994,
+      "totalClientsWithService": 215611,
+      "totalClientsAffectedByPlannedOutage": 0,
+      "percentageClientsWithoutService": 0.46,
+      "percentageClientsWithService": 99.54
+    },
+    {
       "name": "Bayamon",
       "totalClients": 216496,
       "totalClientsWithoutService": 1969,
@@ -19,19 +28,10 @@
       "percentageClientsWithService": 99.09
     },
     {
-      "name": "Mayaguez",
-      "totalClients": 216605,
-      "totalClientsWithoutService": 740,
-      "totalClientsWithService": 215865,
-      "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.34,
-      "percentageClientsWithService": 99.66
-    },
-    {
       "name": "San Juan",
       "totalClients": 253068,
-      "totalClientsWithoutService": 4838,
-      "totalClientsWithService": 248230,
+      "totalClientsWithoutService": 4837,
+      "totalClientsWithService": 248231,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 1.91,
       "percentageClientsWithService": 98.09
@@ -48,8 +48,8 @@
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 2329,
-      "totalClientsWithService": 210179,
+      "totalClientsWithoutService": 2328,
+      "totalClientsWithService": 210180,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 1.1,
       "percentageClientsWithService": 98.9
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 10255,
+    "totalClientsWithoutService": 10507,
     "totalClients": 1468223,
-    "totalClientsWithService": 1457968,
-    "totalPercentageWithoutService": 0.7,
+    "totalClientsWithService": 1457716,
+    "totalPercentageWithoutService": 0.72,
     "totalClientsAffectedByPlannedOutage": 0,
-    "totalPercentageWithService": 99.3
+    "totalPercentageWithService": 99.28
   },
-  "timestamp": "03/27/2024 11:45 PM"
+  "timestamp": "03/27/2024 11:55 PM"
 }
