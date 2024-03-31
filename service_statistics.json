@@ -30,8 +30,8 @@
     {
       "name": "San Juan",
       "totalClients": 253068,
-      "totalClientsWithoutService": 4611,
-      "totalClientsWithService": 248457,
+      "totalClientsWithoutService": 4612,
+      "totalClientsWithService": 248456,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 1.82,
       "percentageClientsWithService": 98.18
@@ -39,11 +39,11 @@
     {
       "name": "Carolina",
       "totalClients": 141663,
-      "totalClientsWithoutService": 3,
-      "totalClientsWithService": 141660,
+      "totalClientsWithoutService": 8,
+      "totalClientsWithService": 141655,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
     },
     {
       "name": "Ponce",
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 4627,
+    "totalClientsWithoutService": 4633,
     "totalClients": 1468223,
-    "totalClientsWithService": 1463596,
+    "totalClientsWithService": 1463590,
     "totalPercentageWithoutService": 0.32,
     "totalClientsAffectedByPlannedOutage": 0,
     "totalPercentageWithService": 99.68
   },
-  "timestamp": "03/31/2024 04:50 AM"
+  "timestamp": "03/31/2024 05:05 AM"
 }
