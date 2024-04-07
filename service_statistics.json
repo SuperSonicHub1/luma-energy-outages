@@ -3,8 +3,8 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 2,
-      "totalClientsWithService": 177367,
+      "totalClientsWithoutService": 3,
+      "totalClientsWithService": 177366,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0,
       "percentageClientsWithService": 100
@@ -21,8 +21,8 @@
     {
       "name": "Bayamon",
       "totalClients": 216496,
-      "totalClientsWithoutService": 11,
-      "totalClientsWithService": 216485,
+      "totalClientsWithoutService": 15,
+      "totalClientsWithService": 216481,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.01,
       "percentageClientsWithService": 99.99
@@ -46,6 +46,15 @@
       "percentageClientsWithService": 99.95
     },
     {
+      "name": "Ponce",
+      "totalClients": 212508,
+      "totalClientsWithoutService": 19,
+      "totalClientsWithService": 212489,
+      "totalClientsAffectedByPlannedOutage": 0,
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
+    },
+    {
       "name": "Caguas",
       "totalClients": 250514,
       "totalClientsWithoutService": 1648,
@@ -53,24 +62,15 @@
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.66,
       "percentageClientsWithService": 99.34
-    },
-    {
-      "name": "Ponce",
-      "totalClients": 212508,
-      "totalClientsWithoutService": 18,
-      "totalClientsWithService": 212490,
-      "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.01,
-      "percentageClientsWithService": 99.99
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 2643,
+    "totalClientsWithoutService": 2649,
     "totalClients": 1468223,
-    "totalClientsWithService": 1465580,
+    "totalClientsWithService": 1465574,
     "totalPercentageWithoutService": 0.18,
     "totalClientsAffectedByPlannedOutage": 0,
     "totalPercentageWithService": 99.82
   },
-  "timestamp": "04/06/2024 10:30 PM"
+  "timestamp": "04/06/2024 10:40 PM"
 }
