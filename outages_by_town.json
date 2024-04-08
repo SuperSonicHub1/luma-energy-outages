@@ -1,6 +1,11 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "URB VILLA CAROLINA",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
@@ -12,7 +17,11 @@
       "area": "GUAYNABO"
     },
     {
-      "zone": "COND GARDEN HILLS PLAZA 2",
+      "zone": "COND DORAL PLAZA I",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "ESTACIAS RIBERAS DEL RIO",
       "area": "GUAYNABO"
     },
     {
@@ -25,14 +34,6 @@
     }
   ],
   "SAN JUAN": [
-    {
-      "zone": "Ave. De Diego",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Bo. Cupey Alto",
-      "area": "SAN JUAN"
-    },
     {
       "zone": "CUPEY",
       "area": "SAN JUAN"
@@ -56,13 +57,17 @@
     {
       "zone": "SABANA LLANA SUR",
       "area": "SAN JUAN"
+    },
+    {
+      "zone": "SEC LAS CURIAS,BO CUPEY ALTO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB CAPARRA TERRACE",
+      "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
-    {
-      "zone": "  -  ",
-      "area": "BAYAMON"
-    },
     {
       "zone": "BO BUENA VISTA CAMI LOS NIEVES",
       "area": "BAYAMON"
@@ -72,11 +77,11 @@
       "area": "BAYAMON"
     },
     {
-      "zone": "PAJAROS",
+      "zone": "URB REXVILLE",
       "area": "BAYAMON"
     },
     {
-      "zone": "URB REXVILLE",
+      "zone": "URB SANTA JUANITA",
       "area": "BAYAMON"
     }
   ]
