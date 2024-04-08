@@ -3,74 +3,74 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 291,
-      "totalClientsWithService": 177078,
+      "totalClientsWithoutService": 249,
+      "totalClientsWithService": 177120,
+      "totalClientsAffectedByPlannedOutage": 0,
+      "percentageClientsWithoutService": 0.14,
+      "percentageClientsWithService": 99.86
+    },
+    {
+      "name": "Mayaguez",
+      "totalClients": 216605,
+      "totalClientsWithoutService": 103,
+      "totalClientsWithService": 216502,
+      "totalClientsAffectedByPlannedOutage": 7,
+      "percentageClientsWithoutService": 0.05,
+      "percentageClientsWithService": 99.95
+    },
+    {
+      "name": "Bayamon",
+      "totalClients": 216496,
+      "totalClientsWithoutService": 77,
+      "totalClientsWithService": 216419,
+      "totalClientsAffectedByPlannedOutage": 0,
+      "percentageClientsWithoutService": 0.04,
+      "percentageClientsWithService": 99.96
+    },
+    {
+      "name": "San Juan",
+      "totalClients": 253068,
+      "totalClientsWithoutService": 401,
+      "totalClientsWithService": 252667,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.16,
       "percentageClientsWithService": 99.84
     },
     {
-      "name": "Mayaguez",
-      "totalClients": 216605,
-      "totalClientsWithoutService": 93,
-      "totalClientsWithService": 216512,
-      "totalClientsAffectedByPlannedOutage": 7,
-      "percentageClientsWithoutService": 0.04,
-      "percentageClientsWithService": 99.96
-    },
-    {
-      "name": "Bayamon",
-      "totalClients": 216496,
-      "totalClientsWithoutService": 74,
-      "totalClientsWithService": 216422,
-      "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.03,
-      "percentageClientsWithService": 99.97
-    },
-    {
-      "name": "San Juan",
-      "totalClients": 253068,
-      "totalClientsWithoutService": 295,
-      "totalClientsWithService": 252773,
-      "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.12,
-      "percentageClientsWithService": 99.88
-    },
-    {
       "name": "Carolina",
       "totalClients": 141663,
-      "totalClientsWithoutService": 70,
-      "totalClientsWithService": 141593,
-      "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.05,
-      "percentageClientsWithService": 99.95
+      "totalClientsWithoutService": 225,
+      "totalClientsWithService": 141438,
+      "totalClientsAffectedByPlannedOutage": 191,
+      "percentageClientsWithoutService": 0.16,
+      "percentageClientsWithService": 99.84
     },
     {
       "name": "Caguas",
       "totalClients": 250514,
-      "totalClientsWithoutService": 1096,
-      "totalClientsWithService": 249418,
+      "totalClientsWithoutService": 1327,
+      "totalClientsWithService": 249187,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.44,
-      "percentageClientsWithService": 99.56
+      "percentageClientsWithoutService": 0.53,
+      "percentageClientsWithService": 99.47
     },
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 4,
-      "totalClientsWithService": 212504,
+      "totalClientsWithoutService": 5,
+      "totalClientsWithService": 212503,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0,
       "percentageClientsWithService": 100
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 1923,
+    "totalClientsWithoutService": 2387,
     "totalClients": 1468223,
-    "totalClientsWithService": 1466300,
-    "totalPercentageWithoutService": 0.13,
-    "totalClientsAffectedByPlannedOutage": 7,
-    "totalPercentageWithService": 99.87
+    "totalClientsWithService": 1465836,
+    "totalPercentageWithoutService": 0.16,
+    "totalClientsAffectedByPlannedOutage": 198,
+    "totalPercentageWithService": 99.84
   },
-  "timestamp": "04/08/2024 08:55 AM"
+  "timestamp": "04/08/2024 09:15 AM"
 }
