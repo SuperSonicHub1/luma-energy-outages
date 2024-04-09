@@ -2,10 +2,6 @@
   "CATANO": [],
   "CAROLINA": [
     {
-      "zone": "SABANA ABAJO",
-      "area": "CAROLINA"
-    },
-    {
       "zone": "TRUJILLO BAJO",
       "area": "CAROLINA"
     }
@@ -16,7 +12,12 @@
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "BO SANTA ROSA",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
       "zone": "BO OBRERO",
@@ -60,10 +61,6 @@
     },
     {
       "zone": "VILLA PALMERAS/CENTRO COMUNAL",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Zona Portuaria",
       "area": "SAN JUAN"
     }
   ],
