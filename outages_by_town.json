@@ -2,28 +2,30 @@
   "CATANO": [],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "QUINTA DE LOS FRAILES",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "SAN JUAN ANTIGUO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "SANTURCE PDA 24",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB LA RIVIERA",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB LAS LOMAS",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Urb. Caribe",
+      "zone": "SECT CUPEY ALTO CMN EL MUDO",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "BO BUENA VISTA VAN SCOY",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "BUENA VISTA CERCA SECTOR",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "Bo. Guaraguao Arriba",
+      "area": "BAYAMON"
+    }
+  ]
 }
