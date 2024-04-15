@@ -1,6 +1,10 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [
     {
       "zone": "  -  ",
@@ -9,21 +13,29 @@
   ],
   "GUAYNABO": [
     {
-      "zone": "Bo. Sonadora",
+      "zone": "SONADORA",
       "area": "GUAYNABO"
     },
     {
-      "zone": "SONADORA",
+      "zone": "URB GOLDEN GATE",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
+      "zone": "  -  ",
+      "area": "SAN JUAN"
+    },
+    {
       "zone": "Bo. Obrero Santurce",
       "area": "SAN JUAN"
     },
     {
-      "zone": "COND CASTILLO 60",
+      "zone": "SAGRADO CORAZON",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB SAN FRANCISCO",
       "area": "SAN JUAN"
     },
     {
@@ -46,6 +58,14 @@
     },
     {
       "zone": "URB REXVILLE",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB SANTA TERESITA",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB SIERRA BAYAMON",
       "area": "BAYAMON"
     }
   ]
