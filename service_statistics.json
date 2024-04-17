@@ -21,8 +21,8 @@
     {
       "name": "Mayaguez",
       "totalClients": 216605,
-      "totalClientsWithoutService": 189,
-      "totalClientsWithService": 216416,
+      "totalClientsWithoutService": 190,
+      "totalClientsWithService": 216415,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.09,
       "percentageClientsWithService": 99.91
@@ -39,20 +39,11 @@
     {
       "name": "Carolina",
       "totalClients": 141663,
-      "totalClientsWithoutService": 577,
-      "totalClientsWithService": 141086,
+      "totalClientsWithoutService": 531,
+      "totalClientsWithService": 141132,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.41,
-      "percentageClientsWithService": 99.59
-    },
-    {
-      "name": "Ponce",
-      "totalClients": 212508,
-      "totalClientsWithoutService": 342,
-      "totalClientsWithService": 212166,
-      "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.16,
-      "percentageClientsWithService": 99.84
+      "percentageClientsWithoutService": 0.37,
+      "percentageClientsWithService": 99.63
     },
     {
       "name": "Caguas",
@@ -62,15 +53,24 @@
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0,
       "percentageClientsWithService": 100
+    },
+    {
+      "name": "Ponce",
+      "totalClients": 212508,
+      "totalClientsWithoutService": 2,
+      "totalClientsWithService": 212506,
+      "totalClientsAffectedByPlannedOutage": 0,
+      "percentageClientsWithoutService": 0,
+      "percentageClientsWithService": 100
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 5584,
+    "totalClientsWithoutService": 5199,
     "totalClients": 1468223,
-    "totalClientsWithService": 1462639,
-    "totalPercentageWithoutService": 0.38,
+    "totalClientsWithService": 1463024,
+    "totalPercentageWithoutService": 0.35,
     "totalClientsAffectedByPlannedOutage": 0,
-    "totalPercentageWithService": 99.62
+    "totalPercentageWithService": 99.65
   },
-  "timestamp": "04/16/2024 10:25 PM"
+  "timestamp": "04/16/2024 10:35 PM"
 }
