@@ -12,11 +12,11 @@
     {
       "name": "Mayaguez",
       "totalClients": 216605,
-      "totalClientsWithoutService": 644,
-      "totalClientsWithService": 215961,
+      "totalClientsWithoutService": 110,
+      "totalClientsWithService": 216495,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.3,
-      "percentageClientsWithService": 99.7
+      "percentageClientsWithoutService": 0.05,
+      "percentageClientsWithService": 99.95
     },
     {
       "name": "Bayamon",
@@ -46,31 +46,31 @@
       "percentageClientsWithService": 100
     },
     {
+      "name": "Ponce",
+      "totalClients": 212508,
+      "totalClientsWithoutService": 87,
+      "totalClientsWithService": 212421,
+      "totalClientsAffectedByPlannedOutage": 0,
+      "percentageClientsWithoutService": 0.04,
+      "percentageClientsWithService": 99.96
+    },
+    {
       "name": "Caguas",
       "totalClients": 250514,
-      "totalClientsWithoutService": 20,
-      "totalClientsWithService": 250494,
+      "totalClientsWithoutService": 21,
+      "totalClientsWithService": 250493,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.01,
       "percentageClientsWithService": 99.99
-    },
-    {
-      "name": "Ponce",
-      "totalClients": 212508,
-      "totalClientsWithoutService": 8,
-      "totalClientsWithService": 212500,
-      "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 902,
+    "totalClientsWithoutService": 448,
     "totalClients": 1468223,
-    "totalClientsWithService": 1467321,
-    "totalPercentageWithoutService": 0.06,
+    "totalClientsWithService": 1467775,
+    "totalPercentageWithoutService": 0.03,
     "totalClientsAffectedByPlannedOutage": 0,
-    "totalPercentageWithService": 99.94
+    "totalPercentageWithService": 99.97
   },
-  "timestamp": "04/18/2024 05:26 AM"
+  "timestamp": "04/18/2024 05:40 AM"
 }
