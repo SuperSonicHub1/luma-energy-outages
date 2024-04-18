@@ -3,17 +3,17 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 72,
-      "totalClientsWithService": 177297,
-      "totalClientsAffectedByPlannedOutage": 1,
+      "totalClientsWithoutService": 71,
+      "totalClientsWithService": 177298,
+      "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.04,
       "percentageClientsWithService": 99.96
     },
     {
       "name": "Mayaguez",
       "totalClients": 216605,
-      "totalClientsWithoutService": 1698,
-      "totalClientsWithService": 214907,
+      "totalClientsWithoutService": 1697,
+      "totalClientsWithService": 214908,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.78,
       "percentageClientsWithService": 99.22
@@ -21,8 +21,8 @@
     {
       "name": "Bayamon",
       "totalClients": 216496,
-      "totalClientsWithoutService": 96,
-      "totalClientsWithService": 216400,
+      "totalClientsWithoutService": 97,
+      "totalClientsWithService": 216399,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.04,
       "percentageClientsWithService": 99.96
@@ -57,20 +57,20 @@
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 8,
-      "totalClientsWithService": 212500,
+      "totalClientsWithoutService": 11,
+      "totalClientsWithService": 212497,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 7360,
+    "totalClientsWithoutService": 7362,
     "totalClients": 1468223,
-    "totalClientsWithService": 1460863,
+    "totalClientsWithService": 1460861,
     "totalPercentageWithoutService": 0.5,
-    "totalClientsAffectedByPlannedOutage": 1,
+    "totalClientsAffectedByPlannedOutage": 0,
     "totalPercentageWithService": 99.5
   },
-  "timestamp": "04/17/2024 11:45 PM"
+  "timestamp": "04/17/2024 11:55 PM"
 }
