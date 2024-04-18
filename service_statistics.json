@@ -3,20 +3,11 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 121,
-      "totalClientsWithService": 177248,
+      "totalClientsWithoutService": 123,
+      "totalClientsWithService": 177246,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.07,
       "percentageClientsWithService": 99.93
-    },
-    {
-      "name": "Bayamon",
-      "totalClients": 216496,
-      "totalClientsWithoutService": 6048,
-      "totalClientsWithService": 210448,
-      "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 2.79,
-      "percentageClientsWithService": 97.21
     },
     {
       "name": "Mayaguez",
@@ -26,6 +17,15 @@
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.23,
       "percentageClientsWithService": 99.77
+    },
+    {
+      "name": "Bayamon",
+      "totalClients": 216496,
+      "totalClientsWithoutService": 102,
+      "totalClientsWithService": 216394,
+      "totalClientsAffectedByPlannedOutage": 0,
+      "percentageClientsWithoutService": 0.05,
+      "percentageClientsWithService": 99.95
     },
     {
       "name": "San Juan",
@@ -57,20 +57,20 @@
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 88,
-      "totalClientsWithService": 212420,
+      "totalClientsWithoutService": 87,
+      "totalClientsWithService": 212421,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.04,
       "percentageClientsWithService": 99.96
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 6806,
+    "totalClientsWithoutService": 861,
     "totalClients": 1468223,
-    "totalClientsWithService": 1461417,
-    "totalPercentageWithoutService": 0.46,
+    "totalClientsWithService": 1467362,
+    "totalPercentageWithoutService": 0.06,
     "totalClientsAffectedByPlannedOutage": 0,
-    "totalPercentageWithService": 99.54
+    "totalPercentageWithService": 99.94
   },
-  "timestamp": "04/18/2024 06:35 AM"
+  "timestamp": "04/18/2024 06:45 AM"
 }
