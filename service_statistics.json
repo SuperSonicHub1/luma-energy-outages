@@ -10,6 +10,15 @@
       "percentageClientsWithService": 100
     },
     {
+      "name": "Bayamon",
+      "totalClients": 216496,
+      "totalClientsWithoutService": 916,
+      "totalClientsWithService": 215580,
+      "totalClientsAffectedByPlannedOutage": 0,
+      "percentageClientsWithoutService": 0.42,
+      "percentageClientsWithService": 99.58
+    },
+    {
       "name": "Mayaguez",
       "totalClients": 216605,
       "totalClientsWithoutService": 11,
@@ -19,19 +28,10 @@
       "percentageClientsWithService": 99.99
     },
     {
-      "name": "Bayamon",
-      "totalClients": 216496,
-      "totalClientsWithoutService": 915,
-      "totalClientsWithService": 215581,
-      "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.42,
-      "percentageClientsWithService": 99.58
-    },
-    {
       "name": "San Juan",
       "totalClients": 253068,
-      "totalClientsWithoutService": 3085,
-      "totalClientsWithService": 249983,
+      "totalClientsWithoutService": 3087,
+      "totalClientsWithService": 249981,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 1.22,
       "percentageClientsWithService": 98.78
@@ -57,20 +57,20 @@
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 91,
-      "totalClientsWithService": 212417,
+      "totalClientsWithoutService": 90,
+      "totalClientsWithService": 212418,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.04,
       "percentageClientsWithService": 99.96
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 4239,
+    "totalClientsWithoutService": 4241,
     "totalClients": 1468223,
-    "totalClientsWithService": 1463984,
+    "totalClientsWithService": 1463982,
     "totalPercentageWithoutService": 0.29,
     "totalClientsAffectedByPlannedOutage": 0,
     "totalPercentageWithService": 99.71
   },
-  "timestamp": "04/25/2024 01:45 AM"
+  "timestamp": "04/25/2024 01:55 AM"
 }
