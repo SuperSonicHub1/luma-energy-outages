@@ -1,7 +1,12 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "BO LA GLORIA",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [],
   "SAN JUAN": [
     {
@@ -10,6 +15,10 @@
     },
     {
       "zone": "SABANA LLANA SUR",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Sector Ocean Park",
       "area": "SAN JUAN"
     },
     {
@@ -25,10 +34,5 @@
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "PLANTA TRATAMIENTO A.P.",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }
