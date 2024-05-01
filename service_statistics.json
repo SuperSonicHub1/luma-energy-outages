@@ -21,17 +21,17 @@
     {
       "name": "Bayamon",
       "totalClients": 216496,
-      "totalClientsWithoutService": 318,
-      "totalClientsWithService": 216178,
+      "totalClientsWithoutService": 676,
+      "totalClientsWithService": 215820,
       "totalClientsAffectedByPlannedOutage": 3,
-      "percentageClientsWithoutService": 0.15,
-      "percentageClientsWithService": 99.85
+      "percentageClientsWithoutService": 0.31,
+      "percentageClientsWithService": 99.69
     },
     {
       "name": "San Juan",
       "totalClients": 253068,
-      "totalClientsWithoutService": 871,
-      "totalClientsWithService": 252197,
+      "totalClientsWithoutService": 870,
+      "totalClientsWithService": 252198,
       "totalClientsAffectedByPlannedOutage": 3,
       "percentageClientsWithoutService": 0.34,
       "percentageClientsWithService": 99.66
@@ -39,38 +39,38 @@
     {
       "name": "Carolina",
       "totalClients": 141663,
-      "totalClientsWithoutService": 109,
-      "totalClientsWithService": 141554,
+      "totalClientsWithoutService": 108,
+      "totalClientsWithService": 141555,
       "totalClientsAffectedByPlannedOutage": 4,
       "percentageClientsWithoutService": 0.08,
       "percentageClientsWithService": 99.92
     },
     {
-      "name": "Ponce",
-      "totalClients": 212508,
-      "totalClientsWithoutService": 150,
-      "totalClientsWithService": 212358,
-      "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.07,
-      "percentageClientsWithService": 99.93
-    },
-    {
       "name": "Caguas",
       "totalClients": 250514,
-      "totalClientsWithoutService": 140,
-      "totalClientsWithService": 250374,
+      "totalClientsWithoutService": 142,
+      "totalClientsWithService": 250372,
       "totalClientsAffectedByPlannedOutage": 85,
       "percentageClientsWithoutService": 0.06,
       "percentageClientsWithService": 99.94
+    },
+    {
+      "name": "Ponce",
+      "totalClients": 212508,
+      "totalClientsWithoutService": 339,
+      "totalClientsWithService": 212169,
+      "totalClientsAffectedByPlannedOutage": 0,
+      "percentageClientsWithoutService": 0.16,
+      "percentageClientsWithService": 99.84
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 2896,
+    "totalClientsWithoutService": 3443,
     "totalClients": 1468223,
-    "totalClientsWithService": 1465327,
-    "totalPercentageWithoutService": 0.2,
+    "totalClientsWithService": 1464780,
+    "totalPercentageWithoutService": 0.23,
     "totalClientsAffectedByPlannedOutage": 120,
-    "totalPercentageWithService": 99.8
+    "totalPercentageWithService": 99.77
   },
-  "timestamp": "05/01/2024 05:10 PM"
+  "timestamp": "05/01/2024 05:20 PM"
 }
