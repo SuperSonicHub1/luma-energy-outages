@@ -3,8 +3,8 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 2690,
-      "totalClientsWithService": 174679,
+      "totalClientsWithoutService": 2694,
+      "totalClientsWithService": 174675,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 1.52,
       "percentageClientsWithService": 98.48
@@ -12,8 +12,8 @@
     {
       "name": "Bayamon",
       "totalClients": 216496,
-      "totalClientsWithoutService": 73,
-      "totalClientsWithService": 216423,
+      "totalClientsWithoutService": 74,
+      "totalClientsWithService": 216422,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.03,
       "percentageClientsWithService": 99.97
@@ -46,15 +46,6 @@
       "percentageClientsWithService": 100
     },
     {
-      "name": "Caguas",
-      "totalClients": 250514,
-      "totalClientsWithoutService": 2246,
-      "totalClientsWithService": 248268,
-      "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.9,
-      "percentageClientsWithService": 99.1
-    },
-    {
       "name": "Ponce",
       "totalClients": 212508,
       "totalClientsWithoutService": 44,
@@ -62,15 +53,24 @@
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.02,
       "percentageClientsWithService": 99.98
+    },
+    {
+      "name": "Caguas",
+      "totalClients": 250514,
+      "totalClientsWithoutService": 2245,
+      "totalClientsWithService": 248269,
+      "totalClientsAffectedByPlannedOutage": 0,
+      "percentageClientsWithoutService": 0.9,
+      "percentageClientsWithService": 99.1
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 5766,
+    "totalClientsWithoutService": 5770,
     "totalClients": 1468223,
-    "totalClientsWithService": 1462457,
+    "totalClientsWithService": 1462453,
     "totalPercentageWithoutService": 0.39,
     "totalClientsAffectedByPlannedOutage": 0,
     "totalPercentageWithService": 99.61
   },
-  "timestamp": "05/03/2024 04:40 AM"
+  "timestamp": "05/03/2024 04:50 AM"
 }
