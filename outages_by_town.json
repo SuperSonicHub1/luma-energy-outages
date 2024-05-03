@@ -1,5 +1,10 @@
 {
-  "CATANO": [],
+  "CATANO": [
+    {
+      "zone": "URB LAS VEGAS",
+      "area": "CATANO"
+    }
+  ],
   "CAROLINA": [
     {
       "zone": "BO BARRAZAS",
@@ -7,6 +12,10 @@
     },
     {
       "zone": "BO SANTA CRUZ",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "Bo. Martin Gonzalez",
       "area": "CAROLINA"
     },
     {
@@ -28,6 +37,10 @@
     {
       "zone": "URB LA MARINA",
       "area": "CAROLINA"
+    },
+    {
+      "zone": "URB VALLE ESCONDIDO",
+      "area": "CAROLINA"
     }
   ],
   "TRUJILLO ALTO": [
@@ -44,6 +57,14 @@
       "area": "TRUJILLO ALTO"
     },
     {
+      "zone": "CIUDAD DEL LAGO",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "COND PARQUE TERRALINDA",
+      "area": "TRUJILLO ALTO"
+    },
+    {
       "zone": "PASEO DE LAS CUMBRES",
       "area": "TRUJILLO ALTO"
     },
@@ -57,10 +78,6 @@
     }
   ],
   "GUAYNABO": [
-    {
-      "zone": "BO HATO NUEVO",
-      "area": "GUAYNABO"
-    },
     {
       "zone": "Bo. Santa Rosa",
       "area": "GUAYNABO"
@@ -82,7 +99,7 @@
       "area": "GUAYNABO"
     },
     {
-      "zone": "URB VILLA CLEMENTINA",
+      "zone": "URB MALLORCA",
       "area": "GUAYNABO"
     }
   ],
@@ -104,11 +121,11 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "LAS MARIAS COURT HYDE PARK",
+      "zone": "MONACILLO URBANO",
       "area": "SAN JUAN"
     },
     {
-      "zone": "MONACILLO URBANO",
+      "zone": "PARCELAS CANEJAS BO. CAIMITO",
       "area": "SAN JUAN"
     },
     {
@@ -132,10 +149,6 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "URB REPTO METRPOLITANO",
-      "area": "SAN JUAN"
-    },
-    {
       "zone": "URB SAN FRANCISCO",
       "area": "SAN JUAN"
     },
@@ -146,9 +159,17 @@
     {
       "zone": "Urb. Reparto Metro SE",
       "area": "SAN JUAN"
+    },
+    {
+      "zone": "Urb. Villa Granada",
+      "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
+    {
+      "zone": "BO GUARAGUAO ABAJO",
+      "area": "BAYAMON"
+    },
     {
       "zone": "BO SANTA OLAYA / PEPIN CABRERA",
       "area": "BAYAMON"
