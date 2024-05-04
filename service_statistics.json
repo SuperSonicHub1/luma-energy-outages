@@ -3,20 +3,11 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 262,
-      "totalClientsWithService": 177107,
+      "totalClientsWithoutService": 264,
+      "totalClientsWithService": 177105,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.15,
       "percentageClientsWithService": 99.85
-    },
-    {
-      "name": "Mayaguez",
-      "totalClients": 216605,
-      "totalClientsWithoutService": 8294,
-      "totalClientsWithService": 208311,
-      "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 3.83,
-      "percentageClientsWithService": 96.17
     },
     {
       "name": "Bayamon",
@@ -28,13 +19,22 @@
       "percentageClientsWithService": 99.94
     },
     {
+      "name": "Mayaguez",
+      "totalClients": 216605,
+      "totalClientsWithoutService": 8293,
+      "totalClientsWithService": 208312,
+      "totalClientsAffectedByPlannedOutage": 0,
+      "percentageClientsWithoutService": 3.83,
+      "percentageClientsWithService": 96.17
+    },
+    {
       "name": "San Juan",
       "totalClients": 253068,
-      "totalClientsWithoutService": 312,
-      "totalClientsWithService": 252756,
+      "totalClientsWithoutService": 330,
+      "totalClientsWithService": 252738,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.12,
-      "percentageClientsWithService": 99.88
+      "percentageClientsWithoutService": 0.13,
+      "percentageClientsWithService": 99.87
     },
     {
       "name": "Carolina",
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 9823,
+    "totalClientsWithoutService": 9842,
     "totalClients": 1468223,
-    "totalClientsWithService": 1458400,
+    "totalClientsWithService": 1458381,
     "totalPercentageWithoutService": 0.67,
     "totalClientsAffectedByPlannedOutage": 329,
     "totalPercentageWithService": 99.33
   },
-  "timestamp": "05/04/2024 05:30 PM"
+  "timestamp": "05/04/2024 05:40 PM"
 }
