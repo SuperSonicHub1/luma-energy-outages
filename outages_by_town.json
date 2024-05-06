@@ -1,11 +1,6 @@
 {
   "CATANO": [],
-  "CAROLINA": [
-    {
-      "zone": "URB METROPOLIS",
-      "area": "CAROLINA"
-    }
-  ],
+  "CAROLINA": [],
   "TRUJILLO ALTO": [
     {
       "zone": "BO CUPEY BAJO SECTOR LOS CASTR",
@@ -16,14 +11,15 @@
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "BO HATO NUEVO SEC LABERINTO",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
       "zone": "BO PUEBLO VIEJO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Bo. Venezuela",
       "area": "SAN JUAN"
     },
     {
@@ -62,6 +58,10 @@
   "BAYAMON": [
     {
       "zone": "BO SANTA OLAYA SEC  PASTO SECO",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "ZONA INDUSTRIAL MINILAS",
       "area": "BAYAMON"
     }
   ]
