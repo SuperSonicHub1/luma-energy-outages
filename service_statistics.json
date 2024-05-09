@@ -21,8 +21,8 @@
     {
       "name": "Mayaguez",
       "totalClients": 216605,
-      "totalClientsWithoutService": 65,
-      "totalClientsWithService": 216540,
+      "totalClientsWithoutService": 66,
+      "totalClientsWithService": 216539,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.03,
       "percentageClientsWithService": 99.97
@@ -30,8 +30,8 @@
     {
       "name": "San Juan",
       "totalClients": 253068,
-      "totalClientsWithoutService": 246,
-      "totalClientsWithService": 252822,
+      "totalClientsWithoutService": 248,
+      "totalClientsWithService": 252820,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.1,
       "percentageClientsWithService": 99.9
@@ -39,17 +39,17 @@
     {
       "name": "Carolina",
       "totalClients": 141663,
-      "totalClientsWithoutService": 2,
-      "totalClientsWithService": 141661,
+      "totalClientsWithoutService": 11,
+      "totalClientsWithService": 141652,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
     },
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 430,
-      "totalClientsWithService": 212078,
+      "totalClientsWithoutService": 432,
+      "totalClientsWithService": 212076,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.2,
       "percentageClientsWithService": 99.8
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 1918,
+    "totalClientsWithoutService": 1932,
     "totalClients": 1468223,
-    "totalClientsWithService": 1466305,
+    "totalClientsWithService": 1466291,
     "totalPercentageWithoutService": 0.13,
     "totalClientsAffectedByPlannedOutage": 580,
     "totalPercentageWithService": 99.87
   },
-  "timestamp": "05/09/2024 07:50 AM"
+  "timestamp": "05/09/2024 08:00 AM"
 }
