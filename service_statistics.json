@@ -21,8 +21,8 @@
     {
       "name": "Mayaguez",
       "totalClients": 216605,
-      "totalClientsWithoutService": 106,
-      "totalClientsWithService": 216499,
+      "totalClientsWithoutService": 111,
+      "totalClientsWithService": 216494,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.05,
       "percentageClientsWithService": 99.95
@@ -30,8 +30,8 @@
     {
       "name": "San Juan",
       "totalClients": 253068,
-      "totalClientsWithoutService": 485,
-      "totalClientsWithService": 252583,
+      "totalClientsWithoutService": 486,
+      "totalClientsWithService": 252582,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.19,
       "percentageClientsWithService": 99.81
@@ -46,15 +46,6 @@
       "percentageClientsWithService": 99.99
     },
     {
-      "name": "Ponce",
-      "totalClients": 212508,
-      "totalClientsWithoutService": 2,
-      "totalClientsWithService": 212506,
-      "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
-    },
-    {
       "name": "Caguas",
       "totalClients": 250514,
       "totalClientsWithoutService": 495,
@@ -62,15 +53,24 @@
       "totalClientsAffectedByPlannedOutage": 229,
       "percentageClientsWithoutService": 0.2,
       "percentageClientsWithService": 99.8
+    },
+    {
+      "name": "Ponce",
+      "totalClients": 212508,
+      "totalClientsWithoutService": 0,
+      "totalClientsWithService": 212508,
+      "totalClientsAffectedByPlannedOutage": 0,
+      "percentageClientsWithoutService": 0,
+      "percentageClientsWithService": 100
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 1746,
+    "totalClientsWithoutService": 1750,
     "totalClients": 1468223,
-    "totalClientsWithService": 1466477,
+    "totalClientsWithService": 1466473,
     "totalPercentageWithoutService": 0.12,
     "totalClientsAffectedByPlannedOutage": 452,
     "totalPercentageWithService": 99.88
   },
-  "timestamp": "05/16/2024 07:40 AM"
+  "timestamp": "05/16/2024 07:50 AM"
 }
