@@ -1,8 +1,18 @@
 {
   "CATANO": [],
   "CAROLINA": [],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "DOS BOCAS",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
+  "GUAYNABO": [
+    {
+      "zone": "GUARAGUAO/SECT ESTRELLA",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
       "zone": "Bo. Caimito Alto",
@@ -10,10 +20,6 @@
     }
   ],
   "BAYAMON": [
-    {
-      "zone": "BO CERRO GORDO SEC ORTEGA",
-      "area": "BAYAMON"
-    },
     {
       "zone": "BUENA VISTA",
       "area": "BAYAMON"
