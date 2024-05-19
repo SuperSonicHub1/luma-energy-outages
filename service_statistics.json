@@ -3,11 +3,11 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 3423,
-      "totalClientsWithService": 173946,
+      "totalClientsWithoutService": 15,
+      "totalClientsWithService": 177354,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 1.93,
-      "percentageClientsWithService": 98.07
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
     },
     {
       "name": "Mayaguez",
@@ -39,8 +39,8 @@
     {
       "name": "Carolina",
       "totalClients": 141663,
-      "totalClientsWithoutService": 287,
-      "totalClientsWithService": 141376,
+      "totalClientsWithoutService": 288,
+      "totalClientsWithService": 141375,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.2,
       "percentageClientsWithService": 99.8
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 5991,
+    "totalClientsWithoutService": 2584,
     "totalClients": 1468223,
-    "totalClientsWithService": 1462232,
-    "totalPercentageWithoutService": 0.41,
+    "totalClientsWithService": 1465639,
+    "totalPercentageWithoutService": 0.18,
     "totalClientsAffectedByPlannedOutage": 0,
-    "totalPercentageWithService": 99.59
+    "totalPercentageWithService": 99.82
   },
-  "timestamp": "05/18/2024 11:50 PM"
+  "timestamp": "05/19/2024 12:10 AM"
 }
