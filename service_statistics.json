@@ -3,17 +3,17 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 499,
-      "totalClientsWithService": 176870,
+      "totalClientsWithoutService": 33,
+      "totalClientsWithService": 177336,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.28,
-      "percentageClientsWithService": 99.72
+      "percentageClientsWithoutService": 0.02,
+      "percentageClientsWithService": 99.98
     },
     {
       "name": "Bayamon",
       "totalClients": 216496,
-      "totalClientsWithoutService": 589,
-      "totalClientsWithService": 215907,
+      "totalClientsWithoutService": 590,
+      "totalClientsWithService": 215906,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.27,
       "percentageClientsWithService": 99.73
@@ -48,8 +48,8 @@
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 18,
-      "totalClientsWithService": 212490,
+      "totalClientsWithoutService": 17,
+      "totalClientsWithService": 212491,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.01,
       "percentageClientsWithService": 99.99
@@ -57,20 +57,20 @@
     {
       "name": "Caguas",
       "totalClients": 250514,
-      "totalClientsWithoutService": 12,
-      "totalClientsWithService": 250502,
+      "totalClientsWithoutService": 10,
+      "totalClientsWithService": 250504,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0,
       "percentageClientsWithService": 100
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 3086,
+    "totalClientsWithoutService": 2618,
     "totalClients": 1468223,
-    "totalClientsWithService": 1465137,
-    "totalPercentageWithoutService": 0.21,
+    "totalClientsWithService": 1465605,
+    "totalPercentageWithoutService": 0.18,
     "totalClientsAffectedByPlannedOutage": 1893,
-    "totalPercentageWithService": 99.79
+    "totalPercentageWithService": 99.82
   },
-  "timestamp": "05/26/2024 05:25 PM"
+  "timestamp": "05/26/2024 05:35 PM"
 }
