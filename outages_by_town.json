@@ -20,7 +20,12 @@
       "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "URB MONTECIELO",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
       "zone": "  -  ",
@@ -39,7 +44,15 @@
       "area": "SAN JUAN"
     },
     {
+      "zone": "EXT COLLEGE PARK",
+      "area": "SAN JUAN"
+    },
+    {
       "zone": "GOBERNADOR PIÑERO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "HATO REY NORTE",
       "area": "SAN JUAN"
     },
     {
@@ -67,5 +80,18 @@
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "BO SANTA OLAYA SEC EL PUNTO",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "CERRO GORDO",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "SANTA OLAYA/SEC CRUZ VERGARA",
+      "area": "BAYAMON"
+    }
+  ]
 }
