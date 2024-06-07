@@ -1,12 +1,13 @@
 {
-  "CATANO": [],
+  "CATANO": [
+    {
+      "zone": "VISTA DEL MORRO",
+      "area": "CATANO"
+    }
+  ],
   "CAROLINA": [
     {
       "zone": "MARTIN GONZALEZ",
-      "area": "CAROLINA"
-    },
-    {
-      "zone": "SABANA ABAJO",
       "area": "CAROLINA"
     },
     {
@@ -15,12 +16,7 @@
     }
   ],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [
-    {
-      "zone": "URB SANTA CLARA",
-      "area": "GUAYNABO"
-    }
-  ],
+  "GUAYNABO": [],
   "SAN JUAN": [
     {
       "zone": "Ave. 65 De Infanteria",
@@ -28,6 +24,10 @@
     },
     {
       "zone": "BDA ISRAEL",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Bo. Bravos De Boston",
       "area": "SAN JUAN"
     },
     {
@@ -68,6 +68,10 @@
     }
   ],
   "BAYAMON": [
+    {
+      "zone": "JARDINES DE BAYAMONTE",
+      "area": "BAYAMON"
+    },
     {
       "zone": "URB EXT FOREST HILLS",
       "area": "BAYAMON"
