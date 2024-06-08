@@ -1,7 +1,25 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "CAROLINA": [
+    {
+      "zone": "CIUDAD JARDIN",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "HOYO MULAS",
+      "area": "CAROLINA"
+    }
+  ],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "Bo. Carraizo",
+      "area": "TRUJILLO ALTO"
+    },
+    {
+      "zone": "CARRAIZO ALTO EL MUDO R SALDAN",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [
     {
       "zone": "EL JARDIN DE GUAYNABO",
@@ -34,11 +52,15 @@
       "area": "SAN JUAN"
     },
     {
-      "zone": "COND CAMINOS VERDES",
+      "zone": "COND LES JARDINS",
       "area": "SAN JUAN"
     },
     {
       "zone": "COND LOS NARDOS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "COND VEREDAS DE VENUS",
       "area": "SAN JUAN"
     },
     {
@@ -70,11 +92,19 @@
       "area": "SAN JUAN"
     },
     {
+      "zone": "URB CROWN HILLS",
+      "area": "SAN JUAN"
+    },
+    {
       "zone": "URB EL PARAISO",
       "area": "SAN JUAN"
     },
     {
       "zone": "URB LA RIVIERA",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB PARK GARDENS",
       "area": "SAN JUAN"
     },
     {
@@ -91,6 +121,14 @@
     },
     {
       "zone": "Urb. Santa Maria",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Urb. Venus Gard. Norte",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Viejo San Juan",
       "area": "SAN JUAN"
     }
   ],
