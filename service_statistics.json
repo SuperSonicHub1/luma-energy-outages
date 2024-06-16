@@ -21,11 +21,11 @@
     {
       "name": "Bayamon",
       "totalClients": 216496,
-      "totalClientsWithoutService": 4246,
-      "totalClientsWithService": 212250,
+      "totalClientsWithoutService": 12,
+      "totalClientsWithService": 216484,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 1.96,
-      "percentageClientsWithService": 98.04
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
     },
     {
       "name": "San Juan",
@@ -39,11 +39,11 @@
     {
       "name": "Carolina",
       "totalClients": 141663,
-      "totalClientsWithoutService": 289,
-      "totalClientsWithService": 141374,
+      "totalClientsWithoutService": 291,
+      "totalClientsWithService": 141372,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.2,
-      "percentageClientsWithService": 99.8
+      "percentageClientsWithoutService": 0.21,
+      "percentageClientsWithService": 99.79
     },
     {
       "name": "Caguas",
@@ -57,20 +57,20 @@
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 65,
-      "totalClientsWithService": 212443,
+      "totalClientsWithoutService": 707,
+      "totalClientsWithService": 211801,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.03,
-      "percentageClientsWithService": 99.97
+      "percentageClientsWithoutService": 0.33,
+      "percentageClientsWithService": 99.67
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 6126,
+    "totalClientsWithoutService": 2536,
     "totalClients": 1468223,
-    "totalClientsWithService": 1462097,
-    "totalPercentageWithoutService": 0.42,
+    "totalClientsWithService": 1465687,
+    "totalPercentageWithoutService": 0.17,
     "totalClientsAffectedByPlannedOutage": 0,
-    "totalPercentageWithService": 99.58
+    "totalPercentageWithService": 99.83
   },
-  "timestamp": "06/16/2024 05:40 AM"
+  "timestamp": "06/16/2024 05:50 AM"
 }
