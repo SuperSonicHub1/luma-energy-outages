@@ -1,7 +1,71 @@
 {
-  "path": "/miluma-outage-api/outage/municipality/towns",
-  "message": "",
-  "error": "Internal Server Error",
-  "status": 500,
-  "timestamp": "2024-06-20T05:14:39.403+00:00"
+  "CATANO": [],
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [
+    {
+      "zone": "FRAILES",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "SANTA ROSA",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "URB CAPARRA HILLS",
+      "area": "GUAYNABO"
+    }
+  ],
+  "SAN JUAN": [
+    {
+      "zone": "Ave. Américo Miranda",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "SANTURCE",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB ALTAMESA",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB CAPARRA HEIGHTS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "URB COOP LOS MAESTROS",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Urb. La Riviera",
+      "area": "SAN JUAN"
+    }
+  ],
+  "BAYAMON": [
+    {
+      "zone": "Bo. Guaraguao Arriba",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "Bo. Hato Tejas",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "CERRO GORDO",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "GUARAGUAO ARRIBA",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "JARDINES DE CAPARRA",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "VISTA ALEGRE",
+      "area": "BAYAMON"
+    }
+  ]
 }
