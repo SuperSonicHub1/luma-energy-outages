@@ -1,6 +1,15 @@
 {
-  "CATANO": [],
+  "CATANO": [
+    {
+      "zone": "URB VALPARAISO",
+      "area": "CATANO"
+    }
+  ],
   "CAROLINA": [
+    {
+      "zone": "Bo. Sabana Abajo",
+      "area": "CAROLINA"
+    },
     {
       "zone": "Urb. Jardines de Boriquen",
       "area": "CAROLINA"
@@ -9,25 +18,21 @@
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "BO SANTA ROSA",
-      "area": "GUAYNABO"
-    },
-    {
       "zone": "URB GARDEN HILLS",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "Calle Del Parque",
-      "area": "SAN JUAN"
-    },
-    {
       "zone": "URB PARK GARDENS",
       "area": "SAN JUAN"
     },
     {
       "zone": "Urb. Baldrich",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Urbanizacion Summit Hills",
       "area": "SAN JUAN"
     }
   ],
@@ -37,15 +42,19 @@
       "area": "BAYAMON"
     },
     {
-      "zone": "BO SANTA OLAYA/SEC EL PUNTO",
-      "area": "BAYAMON"
-    },
-    {
       "zone": "CERRO GORDO",
       "area": "BAYAMON"
     },
     {
       "zone": "URB EL CORTIJO",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB RESIDENCIAL CANA",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB SANTA ROSA",
       "area": "BAYAMON"
     }
   ]
