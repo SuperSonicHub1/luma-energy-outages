@@ -26,6 +26,10 @@
       "area": "CAROLINA"
     },
     {
+      "zone": "RECYCLING SYSTEM,CANOVANILLAS,",
+      "area": "CAROLINA"
+    },
+    {
       "zone": "URB VILLA CAROLINA",
       "area": "CAROLINA"
     },
@@ -36,14 +40,15 @@
     {
       "zone": "Urb. Sabana Gardens",
       "area": "CAROLINA"
-    },
-    {
-      "zone": "VILLA COOPERATIVA",
-      "area": "CAROLINA"
     }
   ],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "URB SANTA PAULA",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
       "zone": "ALTURAS DEL REMANSO",
@@ -51,10 +56,6 @@
     },
     {
       "zone": "URB VILLA PRADES",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Urb. Caparra Heigths",
       "area": "SAN JUAN"
     },
     {
