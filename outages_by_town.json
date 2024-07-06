@@ -7,8 +7,17 @@
   ],
   "CAROLINA": [],
   "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "GUARAGUAO",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
+    {
+      "zone": "COND FLORAL PLAZA",
+      "area": "SAN JUAN"
+    },
     {
       "zone": "HATO REY NORTE",
       "area": "SAN JUAN"
@@ -20,7 +29,11 @@
   ],
   "BAYAMON": [
     {
-      "zone": "URB BRAULIO DUENO",
+      "zone": "CERRO GORDO",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "VILLA ISLENA BO GUARAGUAO",
       "area": "BAYAMON"
     }
   ]
