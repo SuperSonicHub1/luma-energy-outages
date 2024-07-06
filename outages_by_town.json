@@ -5,13 +5,14 @@
     {
       "zone": "BO QDA GRANDE",
       "area": "TRUJILLO ALTO"
-    },
-    {
-      "zone": "VISTA DEL RIO APARTMENT",
-      "area": "TRUJILLO ALTO"
     }
   ],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "Bo.Guaraguao",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
       "zone": "CUPEY",
@@ -34,5 +35,10 @@
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "Urb. Enramada",
+      "area": "BAYAMON"
+    }
+  ]
 }
