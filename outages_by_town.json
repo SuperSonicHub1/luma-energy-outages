@@ -1,6 +1,11 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "Bo. Sabana Abajo",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [
     {
       "zone": "CUEVAS",
@@ -9,15 +14,15 @@
   ],
   "GUAYNABO": [
     {
+      "zone": "COND MONTE MAYOR",
+      "area": "GUAYNABO"
+    },
+    {
       "zone": "RIO",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
-    {
-      "zone": "COND ELBAL HOUSE",
-      "area": "SAN JUAN"
-    },
     {
       "zone": "COND LEMANS",
       "area": "SAN JUAN"
@@ -28,10 +33,6 @@
     },
     {
       "zone": "URB COLINAS DE MONTECARLO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "Urb. La Riviera",
       "area": "SAN JUAN"
     }
   ],
