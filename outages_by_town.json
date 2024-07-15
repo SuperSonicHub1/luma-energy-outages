@@ -1,14 +1,19 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "Bo. Colo",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [
     {
-      "zone": "Bo. Mamey",
+      "zone": "BO MAMEY / LOSA ROSADOS",
       "area": "GUAYNABO"
     },
     {
-      "zone": "MAMEY 2",
+      "zone": "BO MAMEY II/SEC TORRES",
       "area": "GUAYNABO"
     },
     {
@@ -18,13 +23,33 @@
   ],
   "SAN JUAN": [
     {
+      "zone": "Ave. Ponce De Leon",
+      "area": "SAN JUAN"
+    },
+    {
       "zone": "MONACILLO",
+      "area": "SAN JUAN"
+    },
+    {
+      "zone": "Urb. Puerto Nuevo Calles NO",
       "area": "SAN JUAN"
     }
   ],
   "BAYAMON": [
     {
+      "zone": "BAYAMON GARDENS APTS",
+      "area": "BAYAMON"
+    },
+    {
       "zone": "LOMAS VERDES",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB ALTURAS DE BAYAMON",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB ALTURAS DE FLAMBOYAN",
       "area": "BAYAMON"
     },
     {
@@ -33,6 +58,10 @@
     },
     {
       "zone": "URB REXVILLE",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB SANTA ROSA",
       "area": "BAYAMON"
     }
   ]
