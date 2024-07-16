@@ -3,11 +3,20 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 3058,
-      "totalClientsWithService": 174311,
+      "totalClientsWithoutService": 3056,
+      "totalClientsWithService": 174313,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 1.72,
       "percentageClientsWithService": 98.28
+    },
+    {
+      "name": "Mayaguez",
+      "totalClients": 216605,
+      "totalClientsWithoutService": 779,
+      "totalClientsWithService": 215826,
+      "totalClientsAffectedByPlannedOutage": 0,
+      "percentageClientsWithoutService": 0.36,
+      "percentageClientsWithService": 99.64
     },
     {
       "name": "Bayamon",
@@ -17,15 +26,6 @@
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.03,
       "percentageClientsWithService": 99.97
-    },
-    {
-      "name": "Mayaguez",
-      "totalClients": 216605,
-      "totalClientsWithoutService": 762,
-      "totalClientsWithService": 215843,
-      "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.35,
-      "percentageClientsWithService": 99.65
     },
     {
       "name": "San Juan",
@@ -39,8 +39,8 @@
     {
       "name": "Carolina",
       "totalClients": 141663,
-      "totalClientsWithoutService": 5,
-      "totalClientsWithService": 141658,
+      "totalClientsWithoutService": 6,
+      "totalClientsWithService": 141657,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0,
       "percentageClientsWithService": 100
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 4004,
+    "totalClientsWithoutService": 4020,
     "totalClients": 1468223,
-    "totalClientsWithService": 1464219,
+    "totalClientsWithService": 1464203,
     "totalPercentageWithoutService": 0.27,
     "totalClientsAffectedByPlannedOutage": 0,
     "totalPercentageWithService": 99.73
   },
-  "timestamp": "07/16/2024 07:40 PM"
+  "timestamp": "07/16/2024 07:50 PM"
 }
