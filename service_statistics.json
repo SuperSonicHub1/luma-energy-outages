@@ -3,20 +3,11 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 63,
-      "totalClientsWithService": 177306,
+      "totalClientsWithoutService": 64,
+      "totalClientsWithService": 177305,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.04,
       "percentageClientsWithService": 99.96
-    },
-    {
-      "name": "Bayamon",
-      "totalClients": 216496,
-      "totalClientsWithoutService": 791,
-      "totalClientsWithService": 215705,
-      "totalClientsAffectedByPlannedOutage": 773,
-      "percentageClientsWithoutService": 0.37,
-      "percentageClientsWithService": 99.63
     },
     {
       "name": "Mayaguez",
@@ -26,6 +17,15 @@
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 1.08,
       "percentageClientsWithService": 98.92
+    },
+    {
+      "name": "Bayamon",
+      "totalClients": 216496,
+      "totalClientsWithoutService": 796,
+      "totalClientsWithService": 215700,
+      "totalClientsAffectedByPlannedOutage": 773,
+      "percentageClientsWithoutService": 0.37,
+      "percentageClientsWithService": 99.63
     },
     {
       "name": "San Juan",
@@ -48,8 +48,8 @@
     {
       "name": "Caguas",
       "totalClients": 250514,
-      "totalClientsWithoutService": 380,
-      "totalClientsWithService": 250134,
+      "totalClientsWithoutService": 387,
+      "totalClientsWithService": 250127,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.15,
       "percentageClientsWithService": 99.85
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 4073,
+    "totalClientsWithoutService": 4086,
     "totalClients": 1468223,
-    "totalClientsWithService": 1464150,
+    "totalClientsWithService": 1464137,
     "totalPercentageWithoutService": 0.28,
     "totalClientsAffectedByPlannedOutage": 773,
     "totalPercentageWithService": 99.72
   },
-  "timestamp": "07/25/2024 06:55 AM"
+  "timestamp": "07/25/2024 07:10 AM"
 }
