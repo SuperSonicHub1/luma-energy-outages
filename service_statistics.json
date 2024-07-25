@@ -10,15 +10,6 @@
       "percentageClientsWithService": 99.96
     },
     {
-      "name": "Mayaguez",
-      "totalClients": 216605,
-      "totalClientsWithoutService": 2347,
-      "totalClientsWithService": 214258,
-      "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 1.08,
-      "percentageClientsWithService": 98.92
-    },
-    {
       "name": "Bayamon",
       "totalClients": 216496,
       "totalClientsWithoutService": 797,
@@ -28,10 +19,19 @@
       "percentageClientsWithService": 99.63
     },
     {
+      "name": "Mayaguez",
+      "totalClients": 216605,
+      "totalClientsWithoutService": 2345,
+      "totalClientsWithService": 214260,
+      "totalClientsAffectedByPlannedOutage": 0,
+      "percentageClientsWithoutService": 1.08,
+      "percentageClientsWithService": 98.92
+    },
+    {
       "name": "San Juan",
       "totalClients": 253068,
-      "totalClientsWithoutService": 809,
-      "totalClientsWithService": 252259,
+      "totalClientsWithoutService": 810,
+      "totalClientsWithService": 252258,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.32,
       "percentageClientsWithService": 99.68
@@ -39,11 +39,11 @@
     {
       "name": "Carolina",
       "totalClients": 141663,
-      "totalClientsWithoutService": 269,
-      "totalClientsWithService": 141394,
+      "totalClientsWithoutService": 416,
+      "totalClientsWithService": 141247,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.19,
-      "percentageClientsWithService": 99.81
+      "percentageClientsWithoutService": 0.29,
+      "percentageClientsWithService": 99.71
     },
     {
       "name": "Caguas",
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 4913,
+    "totalClientsWithoutService": 5059,
     "totalClients": 1468223,
-    "totalClientsWithService": 1463310,
-    "totalPercentageWithoutService": 0.33,
+    "totalClientsWithService": 1463164,
+    "totalPercentageWithoutService": 0.34,
     "totalClientsAffectedByPlannedOutage": 848,
-    "totalPercentageWithService": 99.67
+    "totalPercentageWithService": 99.66
   },
-  "timestamp": "07/25/2024 07:35 AM"
+  "timestamp": "07/25/2024 07:45 AM"
 }
