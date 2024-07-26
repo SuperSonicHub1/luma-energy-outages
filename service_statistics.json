@@ -3,20 +3,20 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 258,
-      "totalClientsWithService": 177111,
+      "totalClientsWithoutService": 177,
+      "totalClientsWithService": 177192,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.15,
-      "percentageClientsWithService": 99.85
+      "percentageClientsWithoutService": 0.1,
+      "percentageClientsWithService": 99.9
     },
     {
       "name": "Mayaguez",
       "totalClients": 216605,
-      "totalClientsWithoutService": 1828,
-      "totalClientsWithService": 214777,
+      "totalClientsWithoutService": 2019,
+      "totalClientsWithService": 214586,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.84,
-      "percentageClientsWithService": 99.16
+      "percentageClientsWithoutService": 0.93,
+      "percentageClientsWithService": 99.07
     },
     {
       "name": "Bayamon",
@@ -48,11 +48,11 @@
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 71,
-      "totalClientsWithService": 212437,
+      "totalClientsWithoutService": 471,
+      "totalClientsWithService": 212037,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.03,
-      "percentageClientsWithService": 99.97
+      "percentageClientsWithoutService": 0.22,
+      "percentageClientsWithService": 99.78
     },
     {
       "name": "Caguas",
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 3012,
+    "totalClientsWithoutService": 3522,
     "totalClients": 1468223,
-    "totalClientsWithService": 1465211,
-    "totalPercentageWithoutService": 0.21,
+    "totalClientsWithService": 1464701,
+    "totalPercentageWithoutService": 0.24,
     "totalClientsAffectedByPlannedOutage": 702,
-    "totalPercentageWithService": 99.79
+    "totalPercentageWithService": 99.76
   },
-  "timestamp": "07/26/2024 07:10 PM"
+  "timestamp": "07/26/2024 07:25 PM"
 }
