@@ -12,8 +12,8 @@
     {
       "name": "Mayaguez",
       "totalClients": 216605,
-      "totalClientsWithoutService": 236,
-      "totalClientsWithService": 216369,
+      "totalClientsWithoutService": 237,
+      "totalClientsWithService": 216368,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.11,
       "percentageClientsWithService": 99.89
@@ -21,8 +21,8 @@
     {
       "name": "Bayamon",
       "totalClients": 216496,
-      "totalClientsWithoutService": 22,
-      "totalClientsWithService": 216474,
+      "totalClientsWithoutService": 23,
+      "totalClientsWithService": 216473,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.01,
       "percentageClientsWithService": 99.99
@@ -46,6 +46,15 @@
       "percentageClientsWithService": 100
     },
     {
+      "name": "Ponce",
+      "totalClients": 212508,
+      "totalClientsWithoutService": 66,
+      "totalClientsWithService": 212442,
+      "totalClientsAffectedByPlannedOutage": 0,
+      "percentageClientsWithoutService": 0.03,
+      "percentageClientsWithService": 99.97
+    },
+    {
       "name": "Caguas",
       "totalClients": 250514,
       "totalClientsWithoutService": 24,
@@ -53,24 +62,15 @@
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.01,
       "percentageClientsWithService": 99.99
-    },
-    {
-      "name": "Ponce",
-      "totalClients": 212508,
-      "totalClientsWithoutService": 65,
-      "totalClientsWithService": 212443,
-      "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.03,
-      "percentageClientsWithService": 99.97
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 359,
+    "totalClientsWithoutService": 362,
     "totalClients": 1468223,
-    "totalClientsWithService": 1467864,
+    "totalClientsWithService": 1467861,
     "totalPercentageWithoutService": 0.02,
     "totalClientsAffectedByPlannedOutage": 0,
     "totalPercentageWithService": 99.98
   },
-  "timestamp": "07/27/2024 04:55 AM"
+  "timestamp": "07/27/2024 05:15 AM"
 }
