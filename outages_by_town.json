@@ -1,13 +1,14 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
+  "CAROLINA": [
+    {
+      "zone": "BARRAZAS",
+      "area": "CAROLINA"
+    }
+  ],
   "TRUJILLO ALTO": [],
   "GUAYNABO": [],
   "SAN JUAN": [
-    {
-      "zone": "Bo. Caimito Alto",
-      "area": "SAN JUAN"
-    },
     {
       "zone": "CAIMITO",
       "area": "SAN JUAN"
@@ -17,5 +18,10 @@
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "URB. SANTA MONICA",
+      "area": "BAYAMON"
+    }
+  ]
 }
