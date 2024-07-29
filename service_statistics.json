@@ -30,17 +30,17 @@
     {
       "name": "San Juan",
       "totalClients": 253068,
-      "totalClientsWithoutService": 3,
-      "totalClientsWithService": 253065,
+      "totalClientsWithoutService": 150,
+      "totalClientsWithService": 252918,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
+      "percentageClientsWithoutService": 0.06,
+      "percentageClientsWithService": 99.94
     },
     {
       "name": "Carolina",
       "totalClients": 141663,
-      "totalClientsWithoutService": 200,
-      "totalClientsWithService": 141463,
+      "totalClientsWithoutService": 201,
+      "totalClientsWithService": 141462,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.14,
       "percentageClientsWithService": 99.86
@@ -65,12 +65,12 @@
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 693,
+    "totalClientsWithoutService": 841,
     "totalClients": 1468223,
-    "totalClientsWithService": 1467530,
-    "totalPercentageWithoutService": 0.05,
+    "totalClientsWithService": 1467382,
+    "totalPercentageWithoutService": 0.06,
     "totalClientsAffectedByPlannedOutage": 0,
-    "totalPercentageWithService": 99.95
+    "totalPercentageWithService": 99.94
   },
-  "timestamp": "07/29/2024 07:15 AM"
+  "timestamp": "07/29/2024 07:25 AM"
 }
