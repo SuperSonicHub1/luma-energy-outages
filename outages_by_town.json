@@ -1,27 +1,40 @@
 {
   "CATANO": [],
-  "CAROLINA": [],
-  "TRUJILLO ALTO": [],
+  "CAROLINA": [
+    {
+      "zone": "COND LA MANCHA",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "COND LOS PINOS ESTE GRUND FLOO",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "HOYO MULAS",
+      "area": "CAROLINA"
+    }
+  ],
+  "TRUJILLO ALTO": [
+    {
+      "zone": "AGUACATE,SECT VILLA OLGA",
+      "area": "TRUJILLO ALTO"
+    }
+  ],
   "GUAYNABO": [
     {
-      "zone": "URB PRADO ALTO",
+      "zone": "URB ALTURAS DE TORRIMAR",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "VILLA LOS FILTROS",
       "area": "GUAYNABO"
     }
   ],
   "SAN JUAN": [
     {
-      "zone": "CUPEY",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB VILLA DOS PINOS",
+      "zone": "URB VILLA NEVAREZ",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": [
-    {
-      "zone": "NUEVO",
-      "area": "BAYAMON"
-    }
-  ]
+  "BAYAMON": []
 }

@@ -3,74 +3,74 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 55,
-      "totalClientsWithService": 177314,
-      "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.03,
-      "percentageClientsWithService": 99.97
-    },
-    {
-      "name": "Bayamon",
-      "totalClients": 216496,
-      "totalClientsWithoutService": 44,
-      "totalClientsWithService": 216452,
-      "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.02,
-      "percentageClientsWithService": 99.98
-    },
-    {
-      "name": "Mayaguez",
-      "totalClients": 216605,
-      "totalClientsWithoutService": 28,
-      "totalClientsWithService": 216577,
-      "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.01,
-      "percentageClientsWithService": 99.99
-    },
-    {
-      "name": "San Juan",
-      "totalClients": 253068,
-      "totalClientsWithoutService": 91,
-      "totalClientsWithService": 252977,
+      "totalClientsWithoutService": 79,
+      "totalClientsWithService": 177290,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0.04,
       "percentageClientsWithService": 99.96
     },
     {
-      "name": "Carolina",
-      "totalClients": 141663,
-      "totalClientsWithoutService": 0,
-      "totalClientsWithService": 141663,
+      "name": "Bayamon",
+      "totalClients": 216496,
+      "totalClientsWithoutService": 2511,
+      "totalClientsWithService": 213985,
+      "totalClientsAffectedByPlannedOutage": 0,
+      "percentageClientsWithoutService": 1.16,
+      "percentageClientsWithService": 98.84
+    },
+    {
+      "name": "Mayaguez",
+      "totalClients": 216605,
+      "totalClientsWithoutService": 2,
+      "totalClientsWithService": 216603,
       "totalClientsAffectedByPlannedOutage": 0,
       "percentageClientsWithoutService": 0,
       "percentageClientsWithService": 100
     },
     {
-      "name": "Ponce",
-      "totalClients": 212508,
-      "totalClientsWithoutService": 5,
-      "totalClientsWithService": 212503,
+      "name": "San Juan",
+      "totalClients": 253068,
+      "totalClientsWithoutService": 23,
+      "totalClientsWithService": 253045,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0,
-      "percentageClientsWithService": 100
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
+    },
+    {
+      "name": "Carolina",
+      "totalClients": 141663,
+      "totalClientsWithoutService": 47,
+      "totalClientsWithService": 141616,
+      "totalClientsAffectedByPlannedOutage": 0,
+      "percentageClientsWithoutService": 0.03,
+      "percentageClientsWithService": 99.97
     },
     {
       "name": "Caguas",
       "totalClients": 250514,
-      "totalClientsWithoutService": 292,
-      "totalClientsWithService": 250222,
+      "totalClientsWithoutService": 657,
+      "totalClientsWithService": 249857,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.12,
-      "percentageClientsWithService": 99.88
+      "percentageClientsWithoutService": 0.26,
+      "percentageClientsWithService": 99.74
+    },
+    {
+      "name": "Ponce",
+      "totalClients": 212508,
+      "totalClientsWithoutService": 1444,
+      "totalClientsWithService": 211064,
+      "totalClientsAffectedByPlannedOutage": 0,
+      "percentageClientsWithoutService": 0.68,
+      "percentageClientsWithService": 99.32
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 515,
+    "totalClientsWithoutService": 4763,
     "totalClients": 1468223,
-    "totalClientsWithService": 1467708,
-    "totalPercentageWithoutService": 0.04,
+    "totalClientsWithService": 1463460,
+    "totalPercentageWithoutService": 0.32,
     "totalClientsAffectedByPlannedOutage": 0,
-    "totalPercentageWithService": 99.96
+    "totalPercentageWithService": 99.68
   },
-  "timestamp": "08/03/2024 09:20 PM"
+  "timestamp": "08/04/2024 09:15 PM"
 }
