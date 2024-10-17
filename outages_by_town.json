@@ -1,30 +1,40 @@
 {
   "CATANO": [],
-  "CAROLINA": [
+  "CAROLINA": [],
+  "TRUJILLO ALTO": [
     {
-      "zone": "URB COUNTRY CLUB",
-      "area": "CAROLINA"
+      "zone": "CARRAIZO",
+      "area": "TRUJILLO ALTO"
     }
   ],
-  "TRUJILLO ALTO": [],
-  "GUAYNABO": [],
+  "GUAYNABO": [
+    {
+      "zone": "URB LOMAS DEL SOL",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "URB TERRAZAS DE TINTILLO",
+      "area": "GUAYNABO"
+    },
+    {
+      "zone": "URB. TORRIMAR",
+      "area": "GUAYNABO"
+    }
+  ],
   "SAN JUAN": [
     {
-      "zone": "Bo. Cupey Alto",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "CUPEY",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "MONACILLO URBANO",
-      "area": "SAN JUAN"
-    },
-    {
-      "zone": "URB LAS LOMAS",
+      "zone": "LITHEDA HEIGHTS",
       "area": "SAN JUAN"
     }
   ],
-  "BAYAMON": []
+  "BAYAMON": [
+    {
+      "zone": "PAJAROS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB LOMAS VERDES",
+      "area": "BAYAMON"
+    }
+  ]
 }
