@@ -1,7 +1,43 @@
 {
-  "path": "/miluma-outage-api/outage/municipality/towns",
-  "message": "",
-  "error": "Internal Server Error",
-  "status": 500,
-  "timestamp": "2025-01-02T01:25:22.573+00:00"
+  "CATANO": [],
+  "CAROLINA": [
+    {
+      "zone": "BO CANOVANILLAS",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "BO SANTA CRUZ",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "Bo. Santa Cruz",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "CANGREJO ARRIBA",
+      "area": "CAROLINA"
+    },
+    {
+      "zone": "Sector Las Filipinas",
+      "area": "CAROLINA"
+    }
+  ],
+  "TRUJILLO ALTO": [],
+  "GUAYNABO": [],
+  "SAN JUAN": [
+    {
+      "zone": "Bo. Obrero",
+      "area": "SAN JUAN"
+    }
+  ],
+  "BAYAMON": [
+    {
+      "zone": "PAJAROS",
+      "area": "BAYAMON"
+    },
+    {
+      "zone": "URB BELLA VISTA GDNS",
+      "area": "BAYAMON"
+    }
+  ]
 }
