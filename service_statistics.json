@@ -3,74 +3,74 @@
     {
       "name": "Arecibo",
       "totalClients": 177369,
-      "totalClientsWithoutService": 11298,
-      "totalClientsWithService": 166071,
-      "totalClientsAffectedByPlannedOutage": 7989,
-      "percentageClientsWithoutService": 6.37,
-      "percentageClientsWithService": 93.63
-    },
-    {
-      "name": "Bayamon",
-      "totalClients": 216496,
-      "totalClientsWithoutService": 445,
-      "totalClientsWithService": 216051,
+      "totalClientsWithoutService": 24,
+      "totalClientsWithService": 177345,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.21,
-      "percentageClientsWithService": 99.79
+      "percentageClientsWithoutService": 0.01,
+      "percentageClientsWithService": 99.99
     },
     {
       "name": "Mayaguez",
       "totalClients": 216605,
-      "totalClientsWithoutService": 149,
-      "totalClientsWithService": 216456,
+      "totalClientsWithoutService": 56,
+      "totalClientsWithService": 216549,
+      "totalClientsAffectedByPlannedOutage": 4,
+      "percentageClientsWithoutService": 0.03,
+      "percentageClientsWithService": 99.97
+    },
+    {
+      "name": "Bayamon",
+      "totalClients": 216496,
+      "totalClientsWithoutService": 263,
+      "totalClientsWithService": 216233,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.07,
-      "percentageClientsWithService": 99.93
+      "percentageClientsWithoutService": 0.12,
+      "percentageClientsWithService": 99.88
     },
     {
       "name": "San Juan",
       "totalClients": 253068,
-      "totalClientsWithoutService": 234,
-      "totalClientsWithService": 252834,
-      "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.09,
-      "percentageClientsWithService": 99.91
+      "totalClientsWithoutService": 200,
+      "totalClientsWithService": 252868,
+      "totalClientsAffectedByPlannedOutage": 151,
+      "percentageClientsWithoutService": 0.08,
+      "percentageClientsWithService": 99.92
     },
     {
       "name": "Carolina",
       "totalClients": 141663,
-      "totalClientsWithoutService": 338,
-      "totalClientsWithService": 141325,
-      "totalClientsAffectedByPlannedOutage": 17,
-      "percentageClientsWithoutService": 0.24,
-      "percentageClientsWithService": 99.76
+      "totalClientsWithoutService": 263,
+      "totalClientsWithService": 141400,
+      "totalClientsAffectedByPlannedOutage": 250,
+      "percentageClientsWithoutService": 0.19,
+      "percentageClientsWithService": 99.81
     },
     {
       "name": "Ponce",
       "totalClients": 212508,
-      "totalClientsWithoutService": 12,
-      "totalClientsWithService": 212496,
+      "totalClientsWithoutService": 4,
+      "totalClientsWithService": 212504,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.01,
-      "percentageClientsWithService": 99.99
+      "percentageClientsWithoutService": 0.0,
+      "percentageClientsWithService": 100.0
     },
     {
       "name": "Caguas",
       "totalClients": 250514,
-      "totalClientsWithoutService": 17,
-      "totalClientsWithService": 250497,
+      "totalClientsWithoutService": 458,
+      "totalClientsWithService": 250056,
       "totalClientsAffectedByPlannedOutage": 0,
-      "percentageClientsWithoutService": 0.01,
-      "percentageClientsWithService": 99.99
+      "percentageClientsWithoutService": 0.18,
+      "percentageClientsWithService": 99.82
     }
   ],
   "totals": {
-    "totalClientsWithoutService": 12493,
+    "totalClientsWithoutService": 1268,
     "totalClients": 1468223,
-    "totalClientsWithService": 1455730,
-    "totalPercentageWithoutService": 0.85,
-    "totalClientsAffectedByPlannedOutage": 8006,
-    "totalPercentageWithService": 99.15
+    "totalClientsWithService": 1466955,
+    "totalPercentageWithoutService": 0.09,
+    "totalClientsAffectedByPlannedOutage": 405,
+    "totalPercentageWithService": 99.91
   },
-  "timestamp": "02/11/2025 09:25 PM"
+  "timestamp": "02/12/2025 09:25 PM"
 }
